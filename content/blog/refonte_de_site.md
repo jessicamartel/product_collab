@@ -15,6 +15,8 @@ Retrouvez ici un retour d'expérience que nous avons écrit à 6 mains avec mes 
 
 Nous expliquons ici comment nous nous sommes pris pour refondre le site Web de Furet.com.
 
+<!-- excerpt -->
+
 ##Au programme
 ###Création du site
 - Mise en place d’une équipe projet
