@@ -26,6 +26,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>/blog/organisation_agile_et_mes_outils_de_product_owner/</loc>
+    <lastmod>2019-11-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>/about/</loc>
     <lastmod>2019-07-09</lastmod>
     <changefreq>monthly</changefreq>
