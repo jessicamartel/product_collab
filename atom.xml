@@ -5,11 +5,28 @@
   <subtitle><![CDATA[A ready to use static blog, powered by Cecil.]]></subtitle>
   <link href="/atom.xml" rel="self" type="application/atom+xml" />
   <link href="/" rel="alternate" type="text/html" />
-  <updated>2020-03-09T01:00:00+01:00</updated>
+  <updated>2022-05-24T02:00:00+02:00</updated>
   <author>
     <name>The Butler</name>
     <uri>/</uri>
   </author>
+  <entry xml:lang="en">
+    <id>/about/</id>
+    <title>About</title>
+    <content type="html">
+      <![CDATA[<h2 id="qui-je-suis">Qui je suis ?</h2>
+<p>Product manager et responsable design au sein de l'organisme de formation en ligne Unow, je m'intéresse et particulièrement à l’UX research, aux méthodologies collaboratives et transversales entre les équipes techniques et fonctionnelles.
+Au quotidien et depuis plusieurs années, j'aime inventer, améliorer et appliquer de nouvelles méthodes pour créer des expériences utilisateurs positives et pertinentes et un état d'esprit interne collaboratif, bienveillant et impactant.
+Depuis quelques mois j'interviens en externe pour partager des méthodes collaboratives éprouvées et adaptables.</p>
+<h3 id="où-me-suivre-ou-me-contacter">Où me suivre ou me contacter ?</h3>
+<p>Ici c'est un bon début :) </p>
+<p>Mon <a href="https://twitter.com/jess_m_martel">twitter</a></p>
+<p>Mon <a href="https://www.linkedin.com/in/jessica-productmanager/">Linkedin</a></p>]]>
+    </content>
+    <link href="/about/" rel="alternate" type="text/html" />
+    <published>2022-05-24T02:00:00+02:00</published>
+    <updated>2022-05-24T02:00:00+02:00</updated>
+  </entry>
   <entry xml:lang="en">
     <id>/blog/princess-mononoke/</id>
     <title>Princess Mononoke</title>
@@ -85,24 +102,5 @@ Comme d'habitude, la collaboration, l'esprit d'équipe et l'avancée solidaire s
     <link href="/blog/organisation_agile_et_mes_outils_de_product_owner/" rel="alternate" type="text/html" />
     <published>2019-11-18T01:00:00+01:00</published>
     <updated>2019-11-18T01:00:00+01:00</updated>
-  </entry>
-  <entry xml:lang="en">
-    <id>/about/</id>
-    <title>About</title>
-    <content type="html">
-      <![CDATA[<blockquote>
-<p>A ready to use static blog, powered by <a href="https://cecil.app">Cecil</a>.</p>
-</blockquote>
-<h2 id="how-to-use">How to use?</h2>
-<h3 id="managing-content-with-forestry-https-forestry-io">Managing content with <a href="https://forestry.io">Forestry</a></h3>
-<p>If your goal is managing content quickly, and decide later where to deploy to it, use the following button to import the starter blog to Forestry CMS and start editing immediatelly!</p>
-<p><a href="https://cecil.app/cms/forestry/import/"><img src="/assets/assets.forestry.io/import-to-forestryK.ae770f039f3fd871643ef15c32987c4e.svg" alt="Import this project into Forestry" loading="lazy" width="142" height="32" /></a></p>
-<h3 id="deploy-with-netlify-https-www-netlify-com">Deploy with <a href="https://www.netlify.com">Netlify</a></h3>
-<p>Otherwise, if your goal is deploying a new blog quickly, and manage content mannually, use the following button to configure and deploy your new blog on Netlify.</p>
-<p><a href="https://app.netlify.com/start/deploy?repository=https://github.com/Cecilapp/the-butler&amp;stack=cms"><img src="/assets/www.netlify.com/img/deploy/button.3ad9ffd81513851911c7c1ccd470b19b.svg" alt="Deploy to Netlify" loading="lazy" width="146" height="32" /></a></p>]]>
-    </content>
-    <link href="/about/" rel="alternate" type="text/html" />
-    <published>2019-07-09T02:00:00+02:00</published>
-    <updated>2019-07-09T02:00:00+02:00</updated>
   </entry>
 </feed>
