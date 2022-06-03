@@ -1,22 +1,19 @@
 ---
 title: About
-date: 2019-07-09
+date: 2022-05-24
 menu:
   main:
     weight: 999
 ---
-> A ready to use static blog, powered by [Cecil](https://cecil.app).
 
-## How to use?
+## Qui je suis ?
+Product manager et responsable design au sein de l'organisme de formation en ligne Unow, je m'intéresse et particulièrement à l’UX research, aux méthodologies collaboratives et transversales entre les équipes techniques et fonctionnelles. 
+Au quotidien et depuis plusieurs années, j'aime inventer, améliorer et appliquer de nouvelles méthodes pour créer des expériences utilisateurs positives et pertinentes et un état d'esprit interne collaboratif, bienveillant et impactant. 
+Depuis quelques mois j'interviens en externe pour partager des méthodes collaboratives éprouvées et adaptables.
 
-### Managing content with [Forestry](https://forestry.io)
+### Où me suivre ou me contacter ? 
+Ici c'est un bon début :) 
 
-If your goal is managing content quickly, and decide later where to deploy to it, use the following button to import the starter blog to Forestry CMS and start editing immediatelly!
+Mon [twitter](https://twitter.com/jess_m_martel)
 
-[![Import this project into Forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://cecil.app/cms/forestry/import/)
-
-### Deploy with [Netlify](https://www.netlify.com)
-
-Otherwise, if your goal is deploying a new blog quickly, and manage content mannually, use the following button to configure and deploy your new blog on Netlify.
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Cecilapp/the-butler&stack=cms)
+Mon [Linkedin](https://www.linkedin.com/in/jessica-productmanager/)
