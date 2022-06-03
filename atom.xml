@@ -55,4 +55,29 @@ Comme d'habitude, la collaboration, l'esprit d'équipe et l'avancée solidaire s
     <published>2019-11-18T01:00:00+01:00</published>
     <updated>2019-11-18T01:00:00+01:00</updated>
   </entry>
+  <entry xml:lang="en">
+    <id>/blog/retour_sur_la_blendwebmix_2019/</id>
+    <title>Retour sur la BlendWebMix 2019</title>
+    <content type="html">
+      <![CDATA[<h2 id="retour-sur-le-blendwebmix-2019">Retour sur le BlendWebMix 2019</h2>
+<p>Retrouvez ici mon article publié sur le blog de Decitre tech sur ma participation à la BlendWebMix de 2019.</p>
+<p>Au programme un retour sur les conférences :</p>
+<ul>
+<li>L’Open Source change le monde…vraiment ? par Bertrand Delacrétaz Principal Scientist chez Adobe Suisse</li>
+<li>Le design System de la MAIF : comment construire une grammaire commune pour des dizaines de métiers et des milliers d’utilisateurs ? par Goulven Baron UX Designer à la MAIF</li>
+<li>UX design et stratégie : les supers pouvoirs du prototypage par Clarisse Moisand (fondatrice de Wedo Studios)</li>
+<li>Advancements and tensions in Enterprise UX Research and Design: From usability and icons to context and design systems par Steve Fadden (Head of UX - Research Google)</li>
+<li>L’Intelligence Supercollective par Emile Servan Schreiber Docteur en psychologie cognitive Hypermind</li>
+<li>Que le Produit soit avec toi ! par Charline Robbe Head of Product &amp; Directrice associée Soluti</li>
+<li>Fast/Forward ⏩ : Quand 2 heures deviennent 2 secondes par Gilles Demarty</li>
+<li>Le feedback sauve des vies par Shirley Almosni Chiche</li>
+</ul>
+<blockquote>
+<p>Source: <a href="https://tech.decitre.fr/posts/retour-sur-blendwebmix">Article d'origine sur le blog de Decitre tech</a></p>
+</blockquote>]]>
+    </content>
+    <link href="/blog/retour_sur_la_blendwebmix_2019/" rel="alternate" type="text/html" />
+    <published>2019-11-18T01:00:00+01:00</published>
+    <updated>2019-11-18T01:00:00+01:00</updated>
+  </entry>
 </feed>
