@@ -1,7 +1,7 @@
 ---
 title: "Comment faire passer vos utilisateurs à l’action ?"
 date: 2020-04-06
-image: /images/ab_testing.html
+image: /images/ab_testing.jpg
 tags:
   - E-commerce
   - ABtesting
