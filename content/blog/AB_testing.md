@@ -13,7 +13,7 @@ draft: false
 
 Un autre article écrit à 6 mains avec mes collègues de Decitre Sebastien Rogier Developpeur et Camille Peney cheffe de projet UX.
 
-Nous expliquons ici comment nous avons refondu nos CTA grâce à l'AB-testing
+Nous expliquons ici comment nous avons refondu nos CTA grâce à l'AB-testing.
 
 <!-- excerpt -->
 
