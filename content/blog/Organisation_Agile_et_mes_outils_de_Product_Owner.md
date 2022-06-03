@@ -16,6 +16,7 @@ draft: false
 Retrouvez ici mon article publié sur le blog de Decitre tech plusieurs mois après mon arrivée sur notre organisation agile ainsi que nos outils et mise en place contextuelle.
 Il vous donnera des pistes d'application concrètes notamment avec le pilotage de deux équipes tech avec des niveaux de maturité différentes. 
 Comme d'habitude, la collaboration, l'esprit d'équipe et l'avancée solidaire sont mises en avant!
+
 <!-- excerpt -->
 
 ##Au programme
