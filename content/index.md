@@ -4,4 +4,4 @@ title: Home
 
 # The Butler
 
-> A ready to use static blog, powered by [Cecil](https://cecil.app).
+> Découvrez mon contenu sur des méthodes collaboratives et transversales entre les équipes techs et produits
