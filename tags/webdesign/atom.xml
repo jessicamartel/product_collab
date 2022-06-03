@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>/tags/webdesign/</id>
+  <title>The Butler - Webdesign</title>
+  <subtitle><![CDATA[Découvrez mon contenu sur des méthodes collaboratives et transversales entre les équipes techs et produits]]></subtitle>
+  <link href="/tags/webdesign/atom.xml" rel="self" type="application/atom+xml" />
+  <link href="/tags/webdesign/" rel="alternate" type="text/html" />
+  <updated>2019-12-05T01:00:00+01:00</updated>
+  <author>
+    <name>The Butler</name>
+    <uri>/</uri>
+  </author>
+  <entry xml:lang="en">
+    <id>/blog/refonte_de_site/</id>
+    <title>Retour d&#039;expérience sur la refonte du site web Furet.com</title>
+    <content type="html">
+      <![CDATA[<h2 id="retour-sur-le-blendwebmix-2019">Retour sur le BlendWebMix 2019</h2>
+<p>Retrouvez ici un retour d'expérience que nous avons écrit à 6 mains avec mes collègues de Decitre Sebastien Rogier Developpeur et Camille Peney cheffe de projet UX.</p>
+<p>Nous expliquons ici comment nous nous sommes pris pour refondre le site Web de Furet.com.</p>
+<h2 id="au-programme">Au programme</h2>
+<h3 id="création-du-site">Création du site</h3>
+<ul>
+<li>Mise en place d’une équipe projet</li>
+<li>Travail préparatoire et outils</li>
+<li>Modification du webdesign</li>
+<li>La recette
+<h3 id="la-migration-du-site">La migration du site</h3></li>
+<li>S’assurer de ne pas casser le SEO</li>
+<li>La récolte des clients et des commandes</li>
+<li>La migration bascule DNS</li>
+</ul>
+<blockquote>
+<p>Source: <a href="https://tech.decitre.fr/posts/furet-comment-on-a-migre-en-2-minutes">Article d'origine sur le blog de Decitre tech</a></p>
+</blockquote>]]>
+    </content>
+    <link href="/blog/refonte_de_site/" rel="alternate" type="text/html" />
+    <published>2019-12-05T01:00:00+01:00</published>
+    <updated>2019-12-05T01:00:00+01:00</updated>
+  </entry>
+</feed>
