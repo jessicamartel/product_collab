@@ -166,7 +166,7 @@ La communauté de l'AFUP était d'une extreme bienveillance, je recommande vraim
 
 J'ai rencontré des co-conférenciers et conférencières d'un grand soutien alors qu'on ne se connaissait pas, idem pour les Duchess rencontrées pour la première fois physiquement. 
 
-On m'a demandé à la fin si ce n'était pas plutôt une conférence sur le management et je suis convaincue que non, c'est une proposition de méthodologie collaborative. La clef pour moi et bien dans le mot collaboration : pas de hierarchie aucune forme de contrôle de la pure collaboration inclusive, évidente, efficace et surtout respectueuse. 
+On m'a demandé à la fin si ce n'était pas plutôt une conférence sur le management et je suis convaincue que non, c'est une proposition de méthodologie collaborative. La clef pour moi et bien dans le mot collaboration : pas de hierarchie aucune forme de contrôle de la pure collaboration inclusive, évidente et efficace grâce à un environnement de confiance sain et respectueux.
 
 J'ai pu avoir de riches échanges après la conférence auprès de personnes intéressées avec des questions spécifiques à leur secteur et organisation, si c'est le cas pour vous à la lecture de cet article, n'hesitez surtout pas à venir me contacter ca me fera vraiment plaisir.
 
