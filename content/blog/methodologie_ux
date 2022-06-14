@@ -1,7 +1,7 @@
 ---
 title: "Guide pratique d'une methologie collaborative dans le developpement ou la refonte de features"
 date: 2022-07-06
-image: /images/
+image: /images/afupday2022.jpg
 tags:
   - afup
   - collaboration
@@ -17,7 +17,7 @@ Le 20 mai 2022 j'ai eu la chance de présenter une conférence à l'[Afup day](h
 
 Fin 2021, un collègue PM de chez Dougs m'avait invité à parler au sein de son entreprise d'une méthodologie que j'applique au quotidien et que je lui avait présentée pour répondre à certains de ces enjeux.
 
-Afin que cela soit utile au plus grand nombre de personne, vous pouvez retrouver ici le transcript de cette conférence ainsi que les Slides qui sont expliqués dans le scripts pour permettre une meilleure accessibilité (n'hesitez pas si vous ce n'est pas optimal, je serais ravie de vous la representer en direct où à faire les corrections nécessaires).
+Afin que cela soit utile au plus grand nombre de personne, vous pouvez retrouver ici la transcription de cette conférence ainsi que les slides qui sont expliqués directement ici pour permettre une meilleure accessibilité (n'hesitez pas si pour vous ce n'est pas optimal, je serais ravie de vous la representer en direct où à faire les corrections nécessaires).
 
 
 #### Présentation de ma conférence
@@ -33,7 +33,7 @@ Si vous voulez vous investir aux côtés de vos équipes produit ou si vous manq
 
 #### Script 
 
-Je suis Jessica Product manager chez Unow un organisme de formation en ligne avec un accompagnement expert. 
+Je suis Jessica Product manager chez [Unow](www.unow.fr) un organisme de formation en ligne avec un accompagnement expert. 
 
 Je travaille principalement sur notre LMS (learning management system) ou plateforme de formation que nous développons en interne.
 
@@ -57,15 +57,15 @@ Elle permet de répondre à trois enjeux :
 - Explorer tous les besoins.
 
 Idéalement, vous souhaitez rassembler: 
-- Un·e PO/PM.
-- Un·e designer ou Product designer.
+- Un ou une PO/PM.
+- Un ou unee designer ou Product designer.
 - Un membre de l’équipe majoritairement impactée.
 - et Une ou plusieurs devs
 
 ####Je vous propose de découper notre méthode en 4 étapes, 4 actions à entreprendre. 
 
 Étape 1 : Le Product concept : Pourquoi ? Pour qui ?
-Etape 2 : UX research / Audit : Qu'est-ce qui existe / est possible ? 
+Etape 2 : UX research ou Audit : Qu'est-ce qui existe / est possible ? 
 Étape 3 : User journey et les workflow : ici on va répondre à Quoi ? Comment ?
 enfin Étape 4 : les Specs et le design : Qu’est-ce qu’on va faire et comment on va le faire?  
 
@@ -76,12 +76,11 @@ En dégager les besoins associés.
 et Identifier les criticités s’il y en a.
 
 Pour l'illustrer, je vais vous montrer à quoi ressemblait notre document pour la refonte d’un tunnel de vente.
-
-
+Pour cette transcription ecrite voici l'explication :
 Nous avions un cas pour commander en retrait magasin un produit en stock. 
-Le panier, l’identification et le paiement étaient donc des étapes obligatoires.
+Le panier, l’identification et le paiement étaient donc des étapes obligatoires dans excel on represente cela avec une crois, un X.
 
-L’étape de la livraison était critique et présentait un point de vigilance particulier puisqu’il fallait bien identifier le magasin, et l’étape de facturation pouvait être allégée car le magasin pouvait prendre le relais au moment du retrait.  
+L’étape de la livraison était critique et présentait un point de vigilance particulier puisqu’il fallait bien identifier le magasin, on représente cela visuellement dans excel avec un triangle orange et l’étape de facturation pouvait être allégée car le magasin pouvait prendre le relais au moment du retrait, on représente cela avec une vague violette.
 
 Par alléger j’entends décharger l'espace visuelle et mettre les informations strictement nécessaires un peu comme pour la création de compte vous pouvez demander soit l’adresse email et le mot de passe ou alors toutes les informations d’adresse, la date de naissance etc. 
 
@@ -96,7 +95,7 @@ La phase d’UX et/ou user research sert à connaître les besoins et ce qui est
 A la base c’est une méthode de management de projet qui permet le découpage hiérarchique en livrables spécifiques des travaux à réaliser.
 
 Prenons l’exemple d’une construction de maison : On identifie les grosses phases par exemple, la conception, la réservation des entreprises, la construction et ensuite on découpe en chantiers par exemple Électricité, plomberie, chauffage. On peut ensuite même imaginer découper plus avec par exemple : panneau électrique, fibre etc 
-Dans notre cas on fait pareil pour la feature par exemple dans l’étape  livraison j’ai besoin d’avoir : Une adresse, un numéro etc.
+Dans notre cas on fait pareil pour la feature par exemple dans l’étape  livraison j’ai besoin d’avoir : Une adresse, un numéro etc. Ca ressemble visuellemùent à un organigramme de avec des taches majeures "parents" et des sous taches "enfants".
 
 ####Étape 3 : Le parcours utilisateur et les workflow : Quoi ? Comment ?
 
@@ -112,23 +111,23 @@ Par exemple, nous avions vu dans le cadre de messageries institutionnelles qu’
 
 D’un point de vue pratique nous utilisons un tableau excel assez classique pour faire ca avec les étapes sous divisées en 4 catégories (Essentiel, secondaire, bof et non) et on classe chacun de nos grains et des éléments vus dans les colonnes pour voir à quelle étape on veut le grain et si on le veut ou pas. En général nous prenons en MVP les besoins essentiels, puis les besoins secondaires s’ils ne sont pas compliqués et on laisse tomber ceux des autres colonnes pour notre contexte. 
 
-On voit donc ici que chacune des étapes précédentes bien que indépendantes finissent pas se synchroniser. 
+Chacune des étapes précédentes bien que indépendantes finissent pas se synchroniser. 
 
 On peut maintenant créer les différents workflows pour représenter les parcours utilisateurs définitifs et les ramifications entre eux
 
 
-Prenons l’exemple de la messagerie ici. Pour l’expert de la formation Unow il va y avoir trois chemins d’utilisations, via la connexion à la messagerie, via un profil participant ou participante et via la réception d’un message. L’objectif de cette étape des workflow est de faire tout le parcours tout ce qui va suivre ces trois chemins et nous aurons donc trois workflow pour cet utilisateur, il faut faire cette démarche pour chaque profil d’utilisateur ou utilisatrice de la feature.
+Prenons l’exemple de la messagerie ici. Pour l’expert de la formation Unow il va y avoir trois chemins d’utilisations, via la connexion à la messagerie, via un profil participant ou participante et via la réception d’un message. L’objectif de cette étape des workflow est de faire tout le parcours tout ce qui va suivre ces trois chemins et nous aurons donc trois workflow pour cet utilisateur, il faut faire cette démarche pour chaque profil d’utilisateur ou utilisatrice de la feature. Visuellement cela peut ressembler à une mind map où on déroule chaque chemin à partir d'un profil.
 
 Avec tous ces éléments on peut passer à la dernière étape.
 
 ####l’ Étape 4 : les Specs et le design : Qu’est-ce qu’on va faire et comment ?  
 
 On élabore 3 types de specs: 
-Les spécs fonctionnelles : PO/PM + une personne de l’équipe métier concernée l’objectif est de balayer tous les cas d’usages, de définir les règles métiers en détails et de définir ce qui relève du MVP ou de futures versions. Par exemple, on va définir ici dans le cadre de notre messagerie si le mail de réception d’un nouveau message doit être envoyé en temps réel ou une fois par jour à quelle heure etc.
+Les spécs fonctionnelles : PM + une personne de l’équipe métier concernée l’objectif est de balayer tous les cas d’usages, de définir les règles métiers en détails et de définir ce qui relève du MVP ou de futures versions. Par exemple, on va définir ici dans le cadre de notre messagerie si le mail de réception d’un nouveau message doit être envoyé en temps réel ou une fois par jour à quelle heure etc.
 
 On définit également ici les KPI qui sont les indicateurs mesurables pour suivre l’utilisation de la feature. Les kpi servent dans un premier temps à mesurer que ce qu’on fait répond au besoin, ensuite ça permet d’objectiver des futures évolutions. On définit des KPi idéaux et on affine ensuite en même temps que vie la feature.
 
-Ensuite le PO/Pm travaille avec l’équipe technique les spécs techniques. Le but est de vérifier l'exhaustivité des specs : souvent les développeurs et développeuses permettent à cette étape de donner des précisions importantes qui ont été ratées aux étapes précédentes. Comme ils et elles ont une parfaite connaissance de la manière dont est structurée la donnée et de l’historique des erreurs possibles l’apport de cette étape est considérable. 
+Ensuite le ou la PM travaille avec l’équipe technique les spécs techniques. Le but est de vérifier l'exhaustivité des specs : souvent les développeurs et développeuses permettent à cette étape de donner des précisions importantes qui ont été ratées aux étapes précédentes. Comme ils et elles ont une parfaite connaissance de la manière dont est structurée la donnée et de l’historique des erreurs possibles l’apport de cette étape est considérable. 
 
 Enfin les devs proposent une découpage en lots techniques cohérents fonctionnellement qu’on présente aux métiers pour une livraison en continu. On écrit également à ce stade des scénarii de tests fonctionnels automatisés qui seront mis en place. 
 
@@ -142,6 +141,7 @@ Si vous appliquez ce guide de bout en bout avec toutes les étapes et surtout av
 Elle a été éprouvée dans différents contextes avec différentes équipes. 
 
 C’est une méthode modulable que vous pouvez découper pour ne prendre que ce qui vous intéresse selon la configuration de votre entreprise, vos équipes ou les ressources que vous pouvez allouer au projet. 
+
 
 ####Mais il y a quand même des limites, c'est important de les connaître pour maîtriser votre projet.
 
@@ -162,7 +162,7 @@ Merci de m’avoir écouté.
 
 Présenter cette conférence lors d'un evenement était une première et un gros challenge personnel c'était moins évident que de le présenter en événement privé comme j'avais déjà pu le faire car je devais rester sur des exemples généralistes car le public était mixte mais c'était une occasion en or pour présenter mes convictions sur l'importance de la collaboration entre les équipes techs et produits et l'intêret d'une culture plurielle en interne.
 
-La communauté de l'AFUP était d'une extreme bienveillance, je recommande vraiment de commencer par là si vous voulez vous lancer dans le partage de vos connaissances. Les conférences sont compréhensible par tous et quand elles sont un peu compliquées, elles sont dynamiques et on apprend toujours quelque chose même si nous ne sommes pas developpeur ou developpeuse.La preuve : ce blog est né suite à la présentation d'[Arnaud](https://twitter.com/ArnaudLigny) sur sa solution [Cecil](https://cecil.app/fr/).
+La communauté de l'AFUP était d'une extreme bienveillance, je recommande vraiment de commencer par là si vous voulez vous lancer dans le partage de vos connaissances. Les conférences sont compréhensible par toutes et tous et quand elles sont un peu compliquées, elles sont dynamiques et on apprend toujours quelque chose même si nous ne sommes pas developpeur ou developpeuse.La preuve : ce blog est né suite à la présentation d'[Arnaud](https://twitter.com/ArnaudLigny) sur sa solution [Cecil](https://cecil.app/fr/).
 J'ai rencontré des co-conférenciers et conférencières d'un grand soutien alors qu'on ne se connaissait pas, idem pour les Duchess rencontrées pour la première fois physiquement. 
 
 J'ai pu avoir de riches échanges après la conférence auprès de personnes intéressées avec des questions spécifiques à leur secteur et organisation, si c'est le cas pour vous à la lecture de cet article, n'hesitez surtout pas à venir me contacter ca me fera vraiment plaisir.
