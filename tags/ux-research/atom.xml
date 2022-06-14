@@ -47,10 +47,12 @@
 <li>et Une ou plusieurs devs</li>
 </ul>
 <h4 id="je-vous-propose-de-découper-notre-méthode-en-4-étapes-4-actions-à-entreprendre">Je vous propose de découper notre méthode en 4 étapes, 4 actions à entreprendre.</h4>
-<p>Étape 1 : Le Product concept : Pourquoi ? Pour qui ?
-Etape 2 : UX research ou Audit : Qu'est-ce qui existe / est possible ?
-Étape 3 : User journey et les workflow : ici on va répondre à Quoi ? Comment ?
-enfin Étape 4 : les Specs et le design : Qu’est-ce qu’on va faire et comment on va le faire?  </p>
+<ul>
+<li>Étape 1 : Le Product concept : Pourquoi ? Pour qui ?</li>
+<li>Etape 2 : UX research ou Audit : Qu'est-ce qui existe / est possible ? </li>
+<li>Étape 3 : User journey et les workflow : ici on va répondre à Quoi ? Comment ?</li>
+<li>enfin Étape 4 : les Specs et le design : Qu’est-ce qu’on va faire et comment on va le faire?  </li>
+</ul>
 <h4 id="étape-1-le-product-concept-pourquoi-pour-qui">Étape 1 : Le Product concept : Pourquoi ? Pour qui ?</h4>
 <p>On cherche à savoir pourquoi on veut faire cette feature et pour qui.
 On va donc lister de façon exhaustive les cas d’utilisations.
