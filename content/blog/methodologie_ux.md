@@ -62,10 +62,10 @@ Idéalement, vous souhaitez rassembler:
 
 ####Je vous propose de découper notre méthode en 4 étapes, 4 actions à entreprendre. 
 
-Étape 1 : Le Product concept : Pourquoi ? Pour qui ?
-Etape 2 : UX research ou Audit : Qu'est-ce qui existe / est possible ? 
-Étape 3 : User journey et les workflow : ici on va répondre à Quoi ? Comment ?
-enfin Étape 4 : les Specs et le design : Qu’est-ce qu’on va faire et comment on va le faire?  
+* Étape 1 : Le Product concept : Pourquoi ? Pour qui ?
+* Etape 2 : UX research ou Audit : Qu'est-ce qui existe / est possible ? 
+* Étape 3 : User journey et les workflow : ici on va répondre à Quoi ? Comment ?
+* enfin Étape 4 : les Specs et le design : Qu’est-ce qu’on va faire et comment on va le faire?  
 
 ####Étape 1 : Le Product concept : Pourquoi ? Pour qui ?
 On cherche à savoir pourquoi on veut faire cette feature et pour qui. 
