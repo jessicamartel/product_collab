@@ -37,7 +37,7 @@ Je travaille principalement sur notre LMS (learning management system) ou platef
 
 Précédemment je travaillais chez Decitre, un site de vente en ligne de livre qui gérait également plusieurs sites e-commerce en marque blanche sur le même thème. 
 
-Le guide pratique que je vais vous présenter a été initié grâce à un mélange entre des techniques de gestion projet, l’UI-Kit de l’UX-researcher Stephanie Walter et des valeurs personnelles. 
+Le guide pratique que je vais vous présenter a été initié grâce à un mélange entre des techniques de gestion projet, l’[UI-Kit de l’UX-researcher Stephanie Walter](https://stephaniewalter.design/blog/free-user-research-ux-design-starter-kit/) et des valeurs personnelles. 
 
 Tel Alexandre Astier qui a adapté la méthode Vogler lorsqu’il a conçu Kaamelott, je vous invite vous aussi à adapter mes propos à vos besoins. Une méthode n’est pas immuable, elle vis à travers vous.
 
