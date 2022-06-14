@@ -5,11 +5,108 @@
   <subtitle><![CDATA[Découvrez mon contenu sur des méthodes collaboratives et transversales entre les équipes techs et produits]]></subtitle>
   <link href="/blog/atom.xml" rel="self" type="application/atom+xml" />
   <link href="/blog/" rel="alternate" type="text/html" />
-  <updated>2020-04-06T02:00:00+02:00</updated>
+  <updated>2022-07-06T02:00:00+02:00</updated>
   <author>
     <name>The Butler</name>
     <uri>/</uri>
   </author>
+  <entry xml:lang="en">
+    <id>/blog/methodologie_ux/</id>
+    <title>Guide pratique d&#039;une methologie collaborative dans le developpement ou la refonte de features</title>
+    <content type="html">
+      <![CDATA[<p>Vous avez la sensation d’arriver en bout de chaîne ? De développer des maquettes irréalisables ou des features dont vous ne comprenez pas le sens ? Si cela vous parle, il y a une solution !</p>
+<p>Je vous propose de vous présenter une méthodologie UX inclusive et transversale qui fonctionne pour le développement de nouvelles features. Que ce soit le développement d’une messagerie interne ou la refonte d’un tunnel de vente, nous allons détailler une méthodologie éprouvée à travers ces deux exemples très différents pour vous montrer ce qui peut fonctionner et quelles sont les clés du succès.</p>
+<p>De la constitution d’une équipe mixte composée de personnes tech et fonctionnelles, à la rédaction des specs techniques et fonctionnelles en passant par la recherche UX, les workflow et les maquettes, nous analyserons en détail les étapes de cette méthode. Ce guide pratique pourra ensuite être utilisé par morceaux ou en intégralité selon vos besoins, vos ressources, votre produit et les spécificités de votre entreprise.</p>
+<p>Si vous voulez vous investir aux côtés de vos équipes produit ou si vous manquez de ressources internes (product owner/manager, chef.fe.s de projets etc.), si vous êtes freelance et devez accompagner vos clients dans le cadrage des projets ou simplement si vous souhaitez en apprendre plus sur la partie amont du développement cette conférence est faite pour vous.</p>
+<!-- excerpt -->
+<h2 id="ma-conférence-guide-pratique-d-une-méthodologie-ux-pour-la-conception-de-features-présentée-à-l-afup-day-2022">Ma conférence &quot;Guide pratique d'une méthodologie UX pour la conception de features&quot; présentée à l'afup day 2022.</h2>
+<p>Le 20 mai 2022 j'ai eu la chance de présenter une conférence à l'<a href="https://event.afup.org/afup-day-2022/programme/">Afup day</a>, organisé par l'Afup Haut de France.</p>
+<p>Fin 2021, un collègue PM de chez Dougs m'avait invité à parler au sein de son entreprise d'une méthodologie que j'applique au quotidien et que je lui avait présentée pour répondre à certains de ces enjeux.</p>
+<p>Afin que cela soit utile au plus grand nombre de personne, vous pouvez retrouver ici la transcription de cette conférence ainsi que les slides qui sont expliqués directement ici pour permettre une meilleure accessibilité (n'hesitez pas si pour vous ce n'est pas optimal, je serais ravie de vous la representer en direct où à faire les corrections nécessaires).</p>
+<h4 id="script">Script</h4>
+<p>Je suis Jessica Product manager chez <a href="www.unow.fr">Unow</a> un organisme de formation en ligne avec un accompagnement expert. </p>
+<p>Je travaille principalement sur notre LMS (learning management system) ou plateforme de formation que nous développons en interne.</p>
+<p>Précédemment je travaillais chez Decitre, un site de vente en ligne de livre qui gérait également plusieurs sites e-commerce en marque blanche sur le même thème. </p>
+<p>Le guide pratique que je vais vous présenter a été initié grâce à un mélange entre des techniques de gestion projet, l’UI-Kit de l’UX-researcher Stephanie Walter et des valeurs personnelles. </p>
+<p>Tel Alexandre Astier qui a adapté la méthode Vogler lorsqu’il a conçu Kaamelott, je vous invite vous aussi à adapter mes propos à vos besoins. Une méthode n’est pas immuable, elle vis à travers vous.</p>
+<p>je vais vous présenter une méthodologie pour le développement de feature applicable dans à peu près tous les contextes. Je vais illustrer cela avec deux exemples: le développement d’une messagerie interne un sujet purement produit et la refonte d’un tunnel de vente, une problématique plutôt e-commerce. </p>
+<h4 id="avant-toute-chose-il-faut-construire-une-équipe-projet">Avant toute chose : il faut construire une équipe projet.</h4>
+<p>Ca semble évident mais il est fréquent d’avoir un pilote de projet qui fait toute la partie amont seul avant que cela ne passe en dev.  </p>
+<p>Pour moi, la construction d’une équipe projet est au cœur de la réussite de cette méthode ; pour valoriser le projet en interne et le mener à son terme. </p>
+<p>Elle permet de répondre à trois enjeux : </p>
+<ul>
+<li>Obtenir l’adhésion globale.</li>
+<li>Apporter des cultures différentes.</li>
+<li>Explorer tous les besoins.</li>
+</ul>
+<p>Idéalement, vous souhaitez rassembler: </p>
+<ul>
+<li>Un ou une PO/PM.</li>
+<li>Un ou unee designer ou Product designer.</li>
+<li>Un membre de l’équipe majoritairement impactée.</li>
+<li>et Une ou plusieurs devs</li>
+</ul>
+<h4 id="je-vous-propose-de-découper-notre-méthode-en-4-étapes-4-actions-à-entreprendre">Je vous propose de découper notre méthode en 4 étapes, 4 actions à entreprendre.</h4>
+<p>Étape 1 : Le Product concept : Pourquoi ? Pour qui ?
+Etape 2 : UX research ou Audit : Qu'est-ce qui existe / est possible ?
+Étape 3 : User journey et les workflow : ici on va répondre à Quoi ? Comment ?
+enfin Étape 4 : les Specs et le design : Qu’est-ce qu’on va faire et comment on va le faire?  </p>
+<h4 id="étape-1-le-product-concept-pourquoi-pour-qui">Étape 1 : Le Product concept : Pourquoi ? Pour qui ?</h4>
+<p>On cherche à savoir pourquoi on veut faire cette feature et pour qui.
+On va donc lister de façon exhaustive les cas d’utilisations.
+En dégager les besoins associés.
+et Identifier les criticités s’il y en a.</p>
+<p>Pour l'illustrer, je vais vous montrer à quoi ressemblait notre document pour la refonte d’un tunnel de vente.
+Pour cette transcription ecrite voici l'explication :
+Nous avions un cas pour commander en retrait magasin un produit en stock.
+Le panier, l’identification et le paiement étaient donc des étapes obligatoires dans excel on represente cela avec une crois, un X.</p>
+<p>L’étape de la livraison était critique et présentait un point de vigilance particulier puisqu’il fallait bien identifier le magasin, on représente cela visuellement dans excel avec un triangle orange et l’étape de facturation pouvait être allégée car le magasin pouvait prendre le relais au moment du retrait, on représente cela avec une vague violette.</p>
+<p>Par alléger j’entends décharger l'espace visuelle et mettre les informations strictement nécessaires un peu comme pour la création de compte vous pouvez demander soit l’adresse email et le mot de passe ou alors toutes les informations d’adresse, la date de naissance etc. </p>
+<h4 id="etape-2-ux-research-audit-qu-est-ce-qui-existe-est-possible">Etape 2 : UX research / Audit : Qu'est-ce qui existe / est possible ?</h4>
+<p>Elle peut se faire en parallèle  de l’étape 1. </p>
+<p>La phase d’UX et/ou user research sert à connaître les besoins et ce qui est possible. On représente ça sous forme de WBS (work break down structure), une technique qui permet de bien saisir chaque grain qui compose une feature et, comme on se base sur des comparaisons de l'existant, on vise à couvrir tous les grains possibles pour la feature qui nous intéresse. </p>
+<p>A la base c’est une méthode de management de projet qui permet le découpage hiérarchique en livrables spécifiques des travaux à réaliser.</p>
+<p>Prenons l’exemple d’une construction de maison : On identifie les grosses phases par exemple, la conception, la réservation des entreprises, la construction et ensuite on découpe en chantiers par exemple Électricité, plomberie, chauffage. On peut ensuite même imaginer découper plus avec par exemple : panneau électrique, fibre etc
+Dans notre cas on fait pareil pour la feature par exemple dans l’étape  livraison j’ai besoin d’avoir : Une adresse, un numéro etc. Ca ressemble visuellemùent à un organigramme de avec des taches majeures &quot;parents&quot; et des sous taches &quot;enfants&quot;.</p>
+<h4 id="étape-3-le-parcours-utilisateur-et-les-workflow-quoi-comment">Étape 3 : Le parcours utilisateur et les workflow : Quoi ? Comment ?</h4>
+<p>On crée le parcours utilisateur macro qui permet de répondre à la question Quelles sont les étapes de ma feature ? En se basant sur ce qui existe mais surtout sur nos besoins.</p>
+<p>Une des spécificités de cette méthode c’est que plutôt que de faire une userjourney très micro, classique comme je me connecte à ma messagerie, je clique sur l’enveloppe  pour envoyer un message, on va se concentrer sur les grandes étapes indispensables: Accéder à sa boite, envoyer un message, recevoir un message.</p>
+<p>Une fois qu’on a nos grandes étapes, on reprend nos grains définis dans l'étape 2 Research et on se pose sur chacun d’eux pour savoir si on les veut ou pas en fonction des différents cas et besoins ainsi que leur niveau de criticité que l’on avait défini à l’étape 1. </p>
+<p>Par exemple, nous avions vu dans le cadre de messageries institutionnelles qu’il y avait des numéros de demandes attribués à chaque message on a estimé que dans notre contexte cela ne répondait à aucun besoin et nous avons décidé d’exclure cette tâche de notre scope.</p>
+<p>D’un point de vue pratique nous utilisons un tableau excel assez classique pour faire ca avec les étapes sous divisées en 4 catégories (Essentiel, secondaire, bof et non) et on classe chacun de nos grains et des éléments vus dans les colonnes pour voir à quelle étape on veut le grain et si on le veut ou pas. En général nous prenons en MVP les besoins essentiels, puis les besoins secondaires s’ils ne sont pas compliqués et on laisse tomber ceux des autres colonnes pour notre contexte. </p>
+<p>Chacune des étapes précédentes bien que indépendantes finissent pas se synchroniser. </p>
+<p>On peut maintenant créer les différents workflows pour représenter les parcours utilisateurs définitifs et les ramifications entre eux</p>
+<p>Prenons l’exemple de la messagerie ici. Pour l’expert de la formation Unow il va y avoir trois chemins d’utilisations, via la connexion à la messagerie, via un profil participant ou participante et via la réception d’un message. L’objectif de cette étape des workflow est de faire tout le parcours tout ce qui va suivre ces trois chemins et nous aurons donc trois workflow pour cet utilisateur, il faut faire cette démarche pour chaque profil d’utilisateur ou utilisatrice de la feature. Visuellement cela peut ressembler à une mind map où on déroule chaque chemin à partir d'un profil.</p>
+<p>Avec tous ces éléments on peut passer à la dernière étape.</p>
+<h4 id="l-étape-4-les-specs-et-le-design-qu-est-ce-qu-on-va-faire-et-comment">l’ Étape 4 : les Specs et le design : Qu’est-ce qu’on va faire et comment ?</h4>
+<p>On élabore 3 types de specs:
+Les spécs fonctionnelles : PM + une personne de l’équipe métier concernée l’objectif est de balayer tous les cas d’usages, de définir les règles métiers en détails et de définir ce qui relève du MVP ou de futures versions. Par exemple, on va définir ici dans le cadre de notre messagerie si le mail de réception d’un nouveau message doit être envoyé en temps réel ou une fois par jour à quelle heure etc.</p>
+<p>On définit également ici les KPI qui sont les indicateurs mesurables pour suivre l’utilisation de la feature. Les kpi servent dans un premier temps à mesurer que ce qu’on fait répond au besoin, ensuite ça permet d’objectiver des futures évolutions. On définit des KPi idéaux et on affine ensuite en même temps que vie la feature.</p>
+<p>Ensuite le ou la PM travaille avec l’équipe technique les spécs techniques. Le but est de vérifier l'exhaustivité des specs : souvent les développeurs et développeuses permettent à cette étape de donner des précisions importantes qui ont été ratées aux étapes précédentes. Comme ils et elles ont une parfaite connaissance de la manière dont est structurée la donnée et de l’historique des erreurs possibles l’apport de cette étape est considérable. </p>
+<p>Enfin les devs proposent une découpage en lots techniques cohérents fonctionnellement qu’on présente aux métiers pour une livraison en continu. On écrit également à ce stade des scénarii de tests fonctionnels automatisés qui seront mis en place. </p>
+<p>Enfin l'équipe design fait des wireframe puis des maquettes UI pour servir d’appui visuel pour les devs mais aussi pour prototyper la feature et les lots afin d’en faire la démonstration aux personnes décisionnaires et/ou aux users.</p>
+<p>Si vous appliquez ce guide de bout en bout avec toutes les étapes et surtout avec les membres impliqués vous avez une feature qui est comprise par tout le monde, qui est fonctionnelle et répond à vos besoins. </p>
+<p>Elle a été éprouvée dans différents contextes avec différentes équipes. </p>
+<p>C’est une méthode modulable que vous pouvez découper pour ne prendre que ce qui vous intéresse selon la configuration de votre entreprise, vos équipes ou les ressources que vous pouvez allouer au projet. </p>
+<h4 id="mais-il-y-a-quand-même-des-limites-c-est-important-de-les-connaître-pour-maîtriser-votre-projet">Mais il y a quand même des limites, c'est important de les connaître pour maîtriser votre projet.</h4>
+<p>C’est une méthode d’envergure dont l’aboutissement peut être remis en question en fonction des évolutions stratégiques. Il y a un risque de devoir réduire le périmètre de la feature. </p>
+<p>Elle n’est pas adaptée en l’état dans le cas d’une refonte de parcours car les étapes sont plus variables avec différents parcours qui s’imbriquent. </p>
+<p>Il y a plus de subjectivité dans les attendus, il faut parfois faire preuve de convictions et pas seulement s’appuyer sur des données car les parcours sont très dépendants du contexte et des spécificités produits. Un seul et même parcours peut répondre à des besoins et des supports multiples et toucher plus d’acteurs.</p>
+<p>D’ailleurs, je teste une nouvelle méthodologie conçue pour ce genre de parcours chez Unow en ce moment, on pourra peut-être en parler une prochaine fois ?</p>
+<p>Merci de m’avoir écouté.</p>
+<h3 id="conclusion">Conclusion</h3>
+<p>Présenter cette conférence lors d'un evenement était une première et un gros challenge personnel c'était moins évident que de le présenter en événement privé comme j'avais déjà pu le faire car je devais rester sur des exemples généralistes car le public était mixte mais c'était une occasion en or pour présenter mes convictions sur l'importance de la collaboration entre les équipes techs et produits et l'intêret d'une culture plurielle en interne.</p>
+<p>La communauté de l'AFUP était d'une extreme bienveillance, je recommande vraiment de commencer par là si vous voulez vous lancer dans le partage de vos connaissances. Les conférences sont compréhensible par toutes et tous et quand elles sont un peu compliquées, elles sont dynamiques et on apprend toujours quelque chose même si nous ne sommes pas developpeur ou developpeuse.La preuve : ce blog est né suite à la présentation d'<a href="https://twitter.com/ArnaudLigny">Arnaud</a> sur sa solution <a href="https://cecil.app/fr/">Cecil</a>.
+J'ai rencontré des co-conférenciers et conférencières d'un grand soutien alors qu'on ne se connaissait pas, idem pour les Duchess rencontrées pour la première fois physiquement. </p>
+<p>J'ai pu avoir de riches échanges après la conférence auprès de personnes intéressées avec des questions spécifiques à leur secteur et organisation, si c'est le cas pour vous à la lecture de cet article, n'hesitez surtout pas à venir me contacter ca me fera vraiment plaisir.</p>
+<blockquote>
+<p>Slides: <a href="https://docs.google.com/presentation/d/1uppRL52qhkdhXulx1zpE6KgO9bLS0MUzIN2ru7TN03s/edit?usp=sharing">Guide pratique d'une méthodologie UX pour la conception de features</a></p>
+</blockquote>]]>
+    </content>
+    <link href="/blog/methodologie_ux/" rel="alternate" type="text/html" />
+    <published>2022-07-06T02:00:00+02:00</published>
+    <updated>2022-07-06T02:00:00+02:00</updated>
+  </entry>
   <entry xml:lang="en">
     <id>/blog/ab_testing/</id>
     <title>Comment faire passer vos utilisateurs à l’action ?</title>
