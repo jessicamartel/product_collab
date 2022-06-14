@@ -8,8 +8,17 @@ tags:
   - produit
   - UX
   - UX Research
-draft: true
+draft: false
 ---
+Vous avez la sensation d’arriver en bout de chaîne ? De développer des maquettes irréalisables ou des features dont vous ne comprenez pas le sens ? Si cela vous parle, il y a une solution !
+
+Je vous propose de vous présenter une méthodologie UX inclusive et transversale qui fonctionne pour le développement de nouvelles features. Que ce soit le développement d’une messagerie interne ou la refonte d’un tunnel de vente, nous allons détailler une méthodologie éprouvée à travers ces deux exemples très différents pour vous montrer ce qui peut fonctionner et quelles sont les clés du succès.
+
+De la constitution d’une équipe mixte composée de personnes tech et fonctionnelles, à la rédaction des specs techniques et fonctionnelles en passant par la recherche UX, les workflow et les maquettes, nous analyserons en détail les étapes de cette méthode. Ce guide pratique pourra ensuite être utilisé par morceaux ou en intégralité selon vos besoins, vos ressources, votre produit et les spécificités de votre entreprise.
+
+Si vous voulez vous investir aux côtés de vos équipes produit ou si vous manquez de ressources internes (product owner/manager, chef.fe.s de projets etc.), si vous êtes freelance et devez accompagner vos clients dans le cadrage des projets ou simplement si vous souhaitez en apprendre plus sur la partie amont du développement cette conférence est faite pour vous.
+
+<!-- excerpt -->
 
 ##Ma conférence "Guide pratique d'une méthodologie UX pour la conception de features" présentée à l'afup day 2022.
 
@@ -18,17 +27,6 @@ Le 20 mai 2022 j'ai eu la chance de présenter une conférence à l'[Afup day](h
 Fin 2021, un collègue PM de chez Dougs m'avait invité à parler au sein de son entreprise d'une méthodologie que j'applique au quotidien et que je lui avait présentée pour répondre à certains de ces enjeux.
 
 Afin que cela soit utile au plus grand nombre de personne, vous pouvez retrouver ici la transcription de cette conférence ainsi que les slides qui sont expliqués directement ici pour permettre une meilleure accessibilité (n'hesitez pas si pour vous ce n'est pas optimal, je serais ravie de vous la representer en direct où à faire les corrections nécessaires).
-
-
-#### Présentation de ma conférence
-
-Vous avez la sensation d’arriver en bout de chaîne ? De développer des maquettes irréalisables ou des features dont vous ne comprenez pas le sens ? Si cela vous parle, il y a une solution !
-
-Je vous propose de vous présenter une méthodologie UX inclusive et transversale qui fonctionne pour le développement de nouvelles features. Que ce soit le développement d’une messagerie interne ou la refonte d’un tunnel de vente, nous allons détailler une méthodologie éprouvée à travers ces deux exemples très différents pour vous montrer ce qui peut fonctionner et quelles sont les clés du succès.
-
-De la constitution d’une équipe mixte composée de personnes tech et fonctionnelles, à la rédaction des specs techniques et fonctionnelles en passant par la recherche UX, les workflow et les maquettes, nous analyserons en détail les étapes de cette méthode. Ce guide pratique pourra ensuite être utilisé par morceaux ou en intégralité selon vos besoins, vos ressources, votre produit et les spécificités de votre entreprise.
-
-Si vous voulez vous investir aux côtés de vos équipes produit ou si vous manquez de ressources internes (product owner/manager, chef.fe.s de projets etc.), si vous êtes freelance et devez accompagner vos clients dans le cadrage des projets ou simplement si vous souhaitez en apprendre plus sur la partie amont du développement cette conférence est faite pour vous.
 
 
 #### Script 
@@ -97,6 +95,7 @@ A la base c’est une méthode de management de projet qui permet le découpage 
 Prenons l’exemple d’une construction de maison : On identifie les grosses phases par exemple, la conception, la réservation des entreprises, la construction et ensuite on découpe en chantiers par exemple Électricité, plomberie, chauffage. On peut ensuite même imaginer découper plus avec par exemple : panneau électrique, fibre etc 
 Dans notre cas on fait pareil pour la feature par exemple dans l’étape  livraison j’ai besoin d’avoir : Une adresse, un numéro etc. Ca ressemble visuellemùent à un organigramme de avec des taches majeures "parents" et des sous taches "enfants".
 
+
 ####Étape 3 : Le parcours utilisateur et les workflow : Quoi ? Comment ?
 
 On crée le parcours utilisateur macro qui permet de répondre à la question Quelles sont les étapes de ma feature ? En se basant sur ce qui existe mais surtout sur nos besoins.
@@ -119,6 +118,7 @@ On peut maintenant créer les différents workflows pour représenter les parcou
 Prenons l’exemple de la messagerie ici. Pour l’expert de la formation Unow il va y avoir trois chemins d’utilisations, via la connexion à la messagerie, via un profil participant ou participante et via la réception d’un message. L’objectif de cette étape des workflow est de faire tout le parcours tout ce qui va suivre ces trois chemins et nous aurons donc trois workflow pour cet utilisateur, il faut faire cette démarche pour chaque profil d’utilisateur ou utilisatrice de la feature. Visuellement cela peut ressembler à une mind map où on déroule chaque chemin à partir d'un profil.
 
 Avec tous ces éléments on peut passer à la dernière étape.
+
 
 ####l’ Étape 4 : les Specs et le design : Qu’est-ce qu’on va faire et comment ?  
 
