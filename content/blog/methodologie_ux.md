@@ -1,5 +1,5 @@
 ---
-title: "Guide pratique d'une methologie collaborative dans le developpement ou la refonte de features"
+title: "Guide pratique d'une methodologie collaborative dans le developpement ou la refonte de features"
 date: 2022-07-06
 image: /images/afupday2022.jpg
 tags:
