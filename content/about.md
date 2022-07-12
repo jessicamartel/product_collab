@@ -1,5 +1,5 @@
 ---
-title: About
+title: À propos
 date: 2022-05-24
 menu:
   main:
