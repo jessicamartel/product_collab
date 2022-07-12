@@ -1,0 +1,8 @@
+ <div class="lastposts">
+        <h2>Tous les articles</h2>
+        <ul>
+          {%- for post in site.pages|filter_by('section', 'blog')|sort_by_date ~%}
+          <li><a href="{{ url(post) }}">{{ post.title }}</a></li>
+          {%- endfor ~%}
+        </ul>
+      </div>
