@@ -113,7 +113,7 @@ Les spécs fonctionnelles : PM + une personne de l’équipe métier concernée 
   </entry>
   <entry xml:lang="en">
     <id>/about/</id>
-    <title>About</title>
+    <title>À propos</title>
     <content type="html">
       <![CDATA[<h2 id="qui-je-suis">Qui je suis ?</h2>
 <p>Je suis Jessica Martel, Product manager et responsable design au sein de l'organisme de formation en ligne Unow, je m'intéresse et particulièrement à l’UX research, aux méthodologies collaboratives et transversales entre les équipes techniques et fonctionnelles.
