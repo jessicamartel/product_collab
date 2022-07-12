@@ -18,6 +18,11 @@
           </h1>
           <span class="post-date">{{ post.date|date('j M Y') }}</span>
           {{ post.content|excerpt_html }}
+          
+          <footer class="readmore">
+            <a href="{{ url(post) }}#more">Lire plus ›</a>
+          </footer>
+          
           {%- endblock post ~%}
         </div>
         {%- endfor ~%}
