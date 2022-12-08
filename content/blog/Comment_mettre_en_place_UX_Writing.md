@@ -1,7 +1,7 @@
 ---
 title: "Comment mettre en place l’UX Writing ? Un retour d’expérience."
 date: 2022-08-05
-image: /images/UX Writing.jpg
+image: /images/UX Writing.png
 tags:
   - UX Writing
   - UX
