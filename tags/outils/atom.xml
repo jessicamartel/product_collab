@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="/atom.xsl" media="all"?>
+<?xml-stylesheet type="text/xsl" href="/xsl/atom.xsl" media="all"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>/tags/outils/</id>
   <title>The Butler - outils</title>
@@ -38,6 +38,6 @@ Comme d'habitude, la collaboration, l'esprit d'équipe et l'avancée solidaire s
     </content>
     <link href="/blog/organisation_agile_et_mes_outils_de_product_owner/" rel="alternate" type="text/html" />
     <published>2019-11-18T01:00:00+01:00</published>
-    <updated>2019-11-18T01:00:00+01:00</updated>
+    <updated>2022-12-08T17:04:43+01:00</updated>
   </entry>
 </feed>
