@@ -6,11 +6,90 @@
   <subtitle><![CDATA[Découvrez mon contenu sur des méthodes collaboratives et transversales entre les équipes techs et produits]]></subtitle>
   <link href="/atom.xml" rel="self" type="application/atom+xml" />
   <link href="/" rel="alternate" type="text/html" />
-  <updated>2022-12-05T01:00:00+01:00</updated>
+  <updated>2023-05-15T02:00:00+02:00</updated>
   <author>
     <name>The Butler</name>
     <uri>/</uri>
   </author>
+  <entry xml:lang="en">
+    <id>/blog/le_role_de_referente_handicap/</id>
+    <title>La mise en place du rôle de référente handicap</title>
+    <content type="html">
+      <![CDATA[<p>Guide pour mettre en place le rôle d'un ou d'une responsable handicap.</p>
+<!-- excerpt -->
+<p>Cet article a pour vocation de vous aider à mettre en place ce rôle de référent·e handicap en interne, nous espérons qu’il vous sera utile :)</p>
+<p>Dans le cadre de notre certification <a href="https://travail-emploi.gouv.fr/formation-professionnelle/acteurs-cadre-et-qualite-de-la-formation-professionnelle/article/qualiopi-marque-de-certification-qualite-des-prestataires-de-formation">Qualiopi</a>, une personne référente sur le sujet du handicap a été nommée, c’est moi, la Product Manager qui ai ce beau rôle à jouer.</p>
+<p>La première étape a été de définir avec notre responsable qualité les missions liées à ce rôle.</p>
+<h1 id="les-missions-d-une-référente-handicap">Les missions d’une référente handicap</h1>
+<ul>
+<li><strong>Être le point relais</strong> entre toutes les personnes, en situation de handicap ou partenaires institutionnels, afin de veiller à une égalité de traitement tout au long de la formation.</li>
+<li>Être en capacité de <strong>mettre en œuvre des mesures de compensation</strong> du handicap en formation si cela est nécessaire.</li>
+<li><strong>Sensibiliser</strong> en interne autour du handicap (création de documentation, formation interne).</li>
+<li>Être force de proposition pour le développement de l’accessibilité pédagogique des formations dispensées, en repérant les problématiques et axes de progrès.</li>
+</ul>
+<p>Nous avons ensuite mis en place des actions de formation en interne pour ce rôle mais aussi pour deux personnes de l’équipe de développement. Cela a également suscité des motivations individuelles pour suivre la formation <a href="https://www.opquast.com/">Opquast</a>.</p>
+<h1 id="quelles-actions-de-formation-pour-débuter-l-accessibilité">Quelles actions de formation pour débuter l’accessibilité ?</h1>
+<ul>
+<li>Certification Opquast : maîtrise de la qualité en projet web qui comprend une grande partie sur l'accessibilité web. Elle a été suivie par notre designer, un développeur et moi.</li>
+<li>Formation &quot;<strong>Chefs et cheffes de projets : l’accessibilité dans vos projets web et mobiles</strong>&quot; avec un module &quot;<strong>Sensibilisation à l'accessibilité numérique</strong>&quot; délivrée par Koena. Cette formation a ensuite fait l'objet d'un atelier interne pour transmettre les connaissances à l’équipe.</li>
+<li>Deux développeurs ont suivi la formation “<strong>Développer et coder des sites web accessibles</strong>” avec ENI.</li>
+<li>Notre designeuse a suivi la formation &quot;<strong>Concevoir des contenus web et éditoriaux accessibles</strong>&quot; réalisée auprès de Orsys afin de créer une expérience de formation encore davantage 'inclusive by design'. Cette action de formation a ensuite fait l’objet d’une formation en interne auprès des équipes qui produisent nos formations.</li>
+<li>De nombreux webinaires et actions de formation gratuites ont ensuite été suivis comme par exemple la <a href="https://design.numerique.gouv.fr/formations/accessibilite/">&quot;<strong>Formation à l'accessibilité</strong>&quot;</a> du gouvernement.</li>
+</ul>
+<h1 id="les-premières-actions-mises-en-place">Les premières actions mises en place</h1>
+<p>En plus des actions de formation, le groupe de travail interne a travaillé à l’amélioration continue de la prise en charge de l’accessibilité. Voici quelques exemples :</p>
+<ul>
+<li>La création d’un backlog d’amélioration continue.</li>
+<li>La prise en compte de l’accessibilité au moment de la conception de notre nouveau site web. En 2023 est créé le nouveau site vitrine. Lors de l'intégration, l'équipe technique a choisi de tester différentes règles d'accessibilité lors du contrôle automatique des différentes pages. Les tests mis en place sont disponibles <a href="https://github.com/dequelabs/axe-core/blob/develop/doc/rule-descriptions.md">ici</a>.</li>
+<li>Des actions de sensibilisation internes ont été faites mensuellement pour sensibiliser les équipes aux handicaps.</li>
+<li>Une formation a été créée pour nos experts et expertes formatrices, sur les sujets spécifiques de la conception d’une formation accessible et l’accompagnement d’une personne selon son handicap.</li>
+</ul>
+<h1 id="mais-au-fait-qu-est-ce-que-l-accessibilité-numérique">Mais au fait, qu’est-ce que l’accessibilité numérique ?</h1>
+<h2 id="définition-de-l-accessibilité">Définition de l'accessibilité</h2>
+<p>Selon le <a href="https://www.w3.org/WAI/fundamentals/accessibility-intro/fr">W3C</a>, organisme de référence sur l'accessibilité web : l’accessibilité du web signifie que les sites web, les outils et les technologies sont conçus et développés de façon à ce que les personnes handicapées puissent les utiliser.
+Plus précisément, les personnes peuvent :</p>
+<ul>
+<li>percevoir, comprendre, naviguer et interagir avec le web ;</li>
+<li>contribuer sur le web.</li>
+</ul>
+<h2 id="les-objectifs-et-obligations">Les objectifs et obligations</h2>
+<ul>
+<li>Percevoir : s’il manque un sens (sourd aveugle, malentendant, dyslexique, cas de rétinite ou de daltonisme).</li>
+<li>Comprendre : si on est déficient intellectuel ou senior, ou en cas d’autisme ou de défaillance d’attention, il faut que le contenu soit accessible ou lisible.</li>
+<li>Naviguer : il faut que les personnes puissent se repérer.</li>
+<li>Interagir : est-ce que les boutons sont facilement cliquables ? Est-ce que le formulaire ne se rafraîchit pas trop vite ?</li>
+<li>Contribuer: ils doivent pouvoir générer du contenu et faire remonter des dysfonctionnements.</li>
+</ul>
+<h2 id="l-accessibilité-du-web-comprend-tous-les-handicaps-affectant-l-accès-au-web-en-particulier-le-handicap">L’accessibilité du web comprend tous les handicaps affectant l’accès au web, en particulier le handicap :</h2>
+<ul>
+<li>auditif ;</li>
+<li>cognitif ;</li>
+<li>neurologique ;</li>
+<li>physique ;</li>
+<li>de la parole ;</li>
+<li>visuel.</li>
+</ul>
+<h2 id="pour-qu-il-y-ait-handicap-il-faut">Pour qu’il y ait handicap il faut :</h2>
+<ul>
+<li>une limitation d’activité ;</li>
+<li>subie dans son environnement ;</li>
+<li>en raison d’une altération substantielle durable ou définitive.</li>
+</ul>
+<h2 id="l-accessibilité-du-web-bénéficie-également-aux-personnes-sans-handicap">L’accessibilité du web bénéficie également aux personnes sans handicap</h2>
+<ul>
+<li>Les personnes utilisant un téléphone mobile, une montre connectée, une télévision connectée ainsi que les autres périphériques ayant de petits écrans, différents modes de saisie, etc.</li>
+<li>Les personnes âgées dont les capacités changent avec l’âge.</li>
+<li>Les personnes ayant un « handicap temporaire » tel qu’un bras cassé ou perdu leurs lunettes.</li>
+<li>Les personnes ayant « une limitation situationnelle » comme être en plein soleil ou dans un environnement où elles ne peuvent pas écouter l’audio.</li>
+<li>Les personnes utilisant une connexion internet lente ou ayant une bande passante limitée ou onéreuse.</li>
+</ul>
+<p>Attention : La clef ici est “conçue et développée” il faut bien que ça soit pensé dans le code et on ne peut pas se contenter d’ajouter une surcouche cosmétique qui est plus handicapante encore.</p>
+<p>Et voilà de quoi bien démarrer, il n’y a plus qu’à vous lancer.</p>]]>
+    </content>
+    <link href="/blog/le_role_de_referente_handicap/" rel="alternate" type="text/html" />
+    <published>2023-05-15T02:00:00+02:00</published>
+    <updated>2023-05-15T16:59:48+02:00</updated>
+  </entry>
   <entry xml:lang="en">
     <id>/blog/transiter_sur_figma/</id>
     <title>Comment transiter sur Figma ? Un retour d’expérience.</title>
@@ -33,7 +112,7 @@ Dans cet article écrit à 4 mains avec Pierre Vincent notre Designer senior nou
     </content>
     <link href="/blog/transiter_sur_figma/" rel="alternate" type="text/html" />
     <published>2022-12-05T01:00:00+01:00</published>
-    <updated>2023-05-15T16:55:27+02:00</updated>
+    <updated>2023-05-15T16:59:48+02:00</updated>
   </entry>
   <entry xml:lang="en">
     <id>/blog/comment_mettre_en_place_ux_writing/</id>
@@ -61,7 +140,7 @@ Sans doute pas mais on ne peut pas se renier quand on aime donner du sens aux mo
     </content>
     <link href="/blog/comment_mettre_en_place_ux_writing/" rel="alternate" type="text/html" />
     <published>2022-08-05T02:00:00+02:00</published>
-    <updated>2023-05-15T16:55:27+02:00</updated>
+    <updated>2023-05-15T16:59:48+02:00</updated>
   </entry>
   <entry xml:lang="en">
     <id>/blog/methodologie_ux/</id>
@@ -161,7 +240,7 @@ Les spécs fonctionnelles : PM + une personne de l’équipe métier concernée 
     </content>
     <link href="/blog/methodologie_ux/" rel="alternate" type="text/html" />
     <published>2022-07-06T02:00:00+02:00</published>
-    <updated>2023-05-15T16:55:27+02:00</updated>
+    <updated>2023-05-15T16:59:48+02:00</updated>
   </entry>
   <entry xml:lang="en">
     <id>/about/</id>
@@ -178,7 +257,7 @@ Depuis quelques mois j'interviens en externe pour partager des méthodes collabo
     </content>
     <link href="/about/" rel="alternate" type="text/html" />
     <published>2022-05-24T02:00:00+02:00</published>
-    <updated>2023-05-15T16:55:27+02:00</updated>
+    <updated>2023-05-15T16:59:48+02:00</updated>
   </entry>
   <entry xml:lang="en">
     <id>/blog/ab_testing/</id>
@@ -204,7 +283,7 @@ Depuis quelques mois j'interviens en externe pour partager des méthodes collabo
     </content>
     <link href="/blog/ab_testing/" rel="alternate" type="text/html" />
     <published>2020-04-06T02:00:00+02:00</published>
-    <updated>2023-05-15T16:55:27+02:00</updated>
+    <updated>2023-05-15T16:59:48+02:00</updated>
   </entry>
   <entry xml:lang="en">
     <id>/blog/refonte_de_site/</id>
@@ -232,7 +311,7 @@ Depuis quelques mois j'interviens en externe pour partager des méthodes collabo
     </content>
     <link href="/blog/refonte_de_site/" rel="alternate" type="text/html" />
     <published>2019-12-05T01:00:00+01:00</published>
-    <updated>2023-05-15T16:55:27+02:00</updated>
+    <updated>2023-05-15T16:59:48+02:00</updated>
   </entry>
   <entry xml:lang="en">
     <id>/blog/organisation_agile_et_mes_outils_de_product_owner/</id>
@@ -261,7 +340,7 @@ Comme d'habitude, la collaboration, l'esprit d'équipe et l'avancée solidaire s
     </content>
     <link href="/blog/organisation_agile_et_mes_outils_de_product_owner/" rel="alternate" type="text/html" />
     <published>2019-11-18T01:00:00+01:00</published>
-    <updated>2023-05-15T16:55:27+02:00</updated>
+    <updated>2023-05-15T16:59:48+02:00</updated>
   </entry>
   <entry xml:lang="en">
     <id>/blog/retour_sur_la_blendwebmix_2019/</id>
@@ -286,6 +365,6 @@ Comme d'habitude, la collaboration, l'esprit d'équipe et l'avancée solidaire s
     </content>
     <link href="/blog/retour_sur_la_blendwebmix_2019/" rel="alternate" type="text/html" />
     <published>2019-11-18T01:00:00+01:00</published>
-    <updated>2023-05-15T16:55:27+02:00</updated>
+    <updated>2023-05-15T16:59:48+02:00</updated>
   </entry>
 </feed>
