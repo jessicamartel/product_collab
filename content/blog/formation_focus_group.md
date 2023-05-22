@@ -56,8 +56,8 @@ Max 8 participant.e.s à distance pour qu’il y ait de la place pour la parole 
 * Elles doivent être ouvertes et non directives pour ne pas biaiser ou ne pas influencer.
 * ne pas donner de conditionnelle et toujours poser un contexte : par exemple ne pas dire “pensez-vous que ce produit pourrait être utile ?” mais “comment utiliseriez-vous ce produit dans ce contexte précis”
 * plusieurs techniques peuvent être utilisées : 
-- la comparaison entre plusieurs choses, 
-- des scénarios projectifs : vous êtes dans tel contexte ça serait le mieux ou le pire par exemple , 
+  * la comparaison entre plusieurs choses, 
+  * des scénarios projectifs : vous êtes dans tel contexte ça serait le mieux ou le pire par exemple , 
 - l’association d'idées : après une présentation en quelques mots de ce que l’on souhaite explorer, 
 - les images mentales par exemple : où aimeriez-vous utiliser ce produit ?
 * mélanger questions et activités
