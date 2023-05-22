@@ -42,7 +42,7 @@ On peut l’utiliser pour de l’exploration ou de la priorisation.
 ## Les focus groupes virtuels
 Des focus groupes peuvent tout à fait être fait à distance, soit un synchrone soit en asynchrone. 
 Attention à la motivation en asynchrone et à la fluidité des échanges. 
-si filmer à distance fait signer une charte éthique spécifiant que personne n’a le droit de filmer ou autre pour garder l’anonymat de la session. 
+Si la session du focus group est en visio il faut faire signer une charte éthique spécifiant que personne n’a le droit de filmer ou screencaster pour garder l’anonymat de la session. Si vous souhaitez filmer de votre côté il faut obtenir le concentement des participantes en leur expliquant pourquoi.
 Max 8 participant.e.s à distance pour qu’il y ait de la place pour la parole de tout le monde.
 
 # Les questions 
