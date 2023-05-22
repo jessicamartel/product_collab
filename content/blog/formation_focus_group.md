@@ -58,15 +58,15 @@ Max 8 participant.e.s à distance pour qu’il y ait de la place pour la parole 
 * plusieurs techniques peuvent être utilisées : 
   * la comparaison entre plusieurs choses, 
   * des scénarios projectifs : vous êtes dans tel contexte ça serait le mieux ou le pire par exemple , 
-- l’association d'idées : après une présentation en quelques mots de ce que l’on souhaite explorer, 
-- les images mentales par exemple : où aimeriez-vous utiliser ce produit ?
+  * l’association d'idées : après une présentation en quelques mots de ce que l’on souhaite explorer, 
+  * les images mentales par exemple : où aimeriez-vous utiliser ce produit ?
 * mélanger questions et activités
 * plusieurs activités peuvent être proposées : 
-- la complétion de phrase : faire travailler individuellement les personnes avant de débattre et mettre en commun,	
-- la photo elicitation : on demande aux participantes d’exprimer ce qu’elles ressentent ou ce que leur évoque telle ou telle image. 
-- technique générative : on leur demande de fabriquer quelque chose avec un kit DIY
-- activités de scénarios : on prépare des scénarios et on demande aux participantes d’y réagir
-- jeux de rôle : on assigne à certaines participantes des rôles à jouer.
+  * la complétion de phrase : faire travailler individuellement les personnes avant de débattre et mettre en commun,	
+  * la photo elicitation : on demande aux participantes d’exprimer ce qu’elles ressentent ou ce que leur évoque telle ou telle image. 
+  * technique générative : on leur demande de fabriquer quelque chose avec un kit DIY
+  * activités de scénarios : on prépare des scénarios et on demande aux participantes d’y réagir
+  * jeux de rôle : on assigne à certaines participantes des rôles à jouer.
 
 # Analyse  
 regrouper les schémas verbaux ou verbatims
