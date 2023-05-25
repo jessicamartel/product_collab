@@ -4,7 +4,8 @@ date: 2023-05-15
 image: /images/le_role_de_référente-handicap.png
 tags:
   - Handicap
-  - organisation
+  - Organisation
+  - Accessibilité
 draft: false
 ---
 
