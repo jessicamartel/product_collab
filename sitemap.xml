@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>/blog/formation_focus_group/</loc>
     <lastmod>2023-05-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/blog/formation_focus_group/</loc>
+    <loc>/blog/adpatations_formation_personne_malvoyante/</loc>
+    <lastmod>2023-05-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>/</loc>
     <lastmod>2023-05-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
