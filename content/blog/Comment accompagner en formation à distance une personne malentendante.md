@@ -17,7 +17,7 @@ Elle était notamment inquiète de ne pas pouvoir suivre les classes virtuelles.
 ​
 ## La prise de contact
 ​
-Comme lors de [l'accompagnement de la personne malvoyante](https://make.unow.fr/posts/accompagnement-pedagogique-personne-avec-handical-visue), j’ai tout de suite pris contact avec elle pour lui indiquer ce que nous avions déjà mis en place, notamment le fait que toutes nos vidéos sont sous-titrées.
+Comme lors de [l'accompagnement de la personne malvoyante](https://productcollab.netlify.app/blog/adpatations_formation_personne_malvoyante/), j’ai tout de suite pris contact avec elle pour lui indiquer ce que nous avions déjà mis en place, notamment le fait que toutes nos vidéos sont sous-titrées.
 Je lui ai aussi posé des questions sur les adaptations qu’elle fait au quotidien : est-ce qu’elle sait lire sur les lèvres, est-ce que le sous-titrage en direct lui convient, est-ce qu’elle a une préférence sur l’outil de visioconférence… ?
 Elle a ainsi pu nous transmettre ses besoins : le son et la [lecture labiale](https://fr.wikipedia.org/wiki/Lecture_labiale).
 ​
