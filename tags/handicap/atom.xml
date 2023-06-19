@@ -6,11 +6,79 @@
   <subtitle><![CDATA[Découvrez mon contenu sur des méthodes collaboratives et transversales entre les équipes techs et produits]]></subtitle>
   <link href="/tags/handicap/atom.xml" rel="self" type="application/atom+xml" />
   <link href="/tags/handicap/" rel="alternate" type="text/html" />
-  <updated>2023-05-22T02:00:00+02:00</updated>
+  <updated>2023-06-05T02:00:00+02:00</updated>
   <author>
     <name>The Butler</name>
     <uri>/</uri>
   </author>
+  <entry xml:lang="en">
+    <id>/blog/comment-accompagner-en-formation-a-distance-une-personne-malentendante/</id>
+    <title>Comment accompagner en formation à distance une personne malentendante</title>
+    <content type="html">
+      <![CDATA[<p>​
+Dans la suite des articles sur le handicap chez Unow je voulais partager avec vous comment nous avons accompagné une personne malentendante sur une de nos formations.
+​
+Cette fois-ci nous n’avions pas été contacté par le ou la responsable de formation mais par la participante directement qui a écrit à l’experte de la formation “Confiance en soi”.
+Elle était notamment inquiète de ne pas pouvoir suivre les classes virtuelles. Comme le reste de la formation est en asynchrone elle s’était tout de même inscrite.
+​</p>
+<h2 id="la-prise-de-contact">La prise de contact</h2>
+<p>​
+Comme lors de <a href="https://make.unow.fr/posts/accompagnement-pedagogique-personne-avec-handical-visue">l'accompagnement de la personne malvoyante</a>, j’ai tout de suite pris contact avec elle pour lui indiquer ce que nous avions déjà mis en place, notamment le fait que toutes nos vidéos sont sous-titrées.
+Je lui ai aussi posé des questions sur les adaptations qu’elle fait au quotidien : est-ce qu’elle sait lire sur les lèvres, est-ce que le sous-titrage en direct lui convient, est-ce qu’elle a une préférence sur l’outil de visioconférence… ?
+Elle a ainsi pu nous transmettre ses besoins : le son et la <a href="https://fr.wikipedia.org/wiki/Lecture_labiale">lecture labiale</a>.
+​</p>
+<h2 id="les-tests-de-l-outil-de-visioconférence">Les tests de l’outil de visioconférence</h2>
+<p>​
+La participante m’a immédiatement communiqué être disponible pour faire des tests ensemble si cela était possible, nous avons donc profité de cette disponibilité pour essayer avec elle notre outil de visioconférence, Webex.
+​
+Voici comment nous avons organisé le test. Toutes ces étapes nous ont pris environ 2h.
+​</p>
+<ol>
+<li>Avec un développeur et une personne de l’équipe animation nous avons audité à 3 les possibilités d’adaptations que nous avons pu voir sur l’outil Webex que voici :
+<ul>
+<li>en bas à gauche il y a les sous titres “cc” et vous pouvez les déplacer et changer leur taille avec les trois petits points. Il y a aussi la possibilité en bas à droite les trois petits points pour que ça s'affiche sous forme de dialogue déroulant.</li>
+<li>Le contour de la vidéo de la personne qui parle devient bleu pour vous permettre d'identifier qui parle.</li>
+<li>Quand il y a un partage d'écran, il est possible de la glisser sur le côté pour voir l'expert en plus grand à côté de la présentation, vous pouvez aussi cliquer sur les trois points en haut à droite de la vignette et passer en &quot;affichage scène&quot;.</li>
+<li>Il est possible de lever la main avec la main à droite pour lui signifier que vous voulez parler.</li>
+<li>Il est possible de participer au chat pour poser toutes vos questions à l'écrit.</li>
+<li>Vous pouvez masquer un⋅e participant⋅e qui n'a pas de vidéo puisque vous ne pourrez pas lire sur ses lèvres mais vous verrez ses communications dans les sous-titres.</li>
+</ul></li>
+<li>Nous avions préparé un jeu de tests à réaliser avec la participante pour vérifier la lecture labiale et le sous titrage :
+<ul>
+<li>La présentatrice parle face caméra.</li>
+<li>La présentatrice parle face caméra et partage un document.</li>
+<li>Un⋅e participant⋅e coupe la parole à la présentatrice.</li>
+<li>Un⋅e participant⋅e parle.</li>
+<li>Un⋅e participant⋅e parle pendant qu’il y a le partage d’écran.</li>
+<li>Un⋅e participant⋅e parle alors qu’il y a plus de 5 participant⋅e⋅s (une fois que la mosaïque est plus petite).</li>
+</ul></li>
+<li>Faire les tests avec la participante et l’équipe directement en lui présentant les options identifiées lors de l’audit. Ces tests ont été très riches en échange, il était intéressant de voir ce qu’elle voulait et les réactions de la participante qui était également contente et rassurée de pouvoir tester en amont, poser toutes ses questions et effectuer les tests qu’elle voulait en prenant son temps
+​
+<h2 id="les-adaptations-sur-la-plateforme">Les adaptations sur la plateforme</h2>
+<p>​
+Comme je l’ai déjà indiqué nos vidéos sont déjà sous-titrées mais j’ai tout de même voulu suivre la formation afin de m’assurer qu’il ne manquait pas des éléments.
+Et voici ce que nous avions identifié, qui a ensuite été corrigé par la cheffe de projet pédagogique :</p>
+<ul>
+<li>Deux vidéos d’introduction d’activités manquaient de sous-titres : nous les avons créés.</li>
+<li>Des vidéos Youtube partagées comme ressources complémentaires manquaient de sous-titres : nous en avons proposées d’autres ou nous avons partagé le lien vers la vidéo en anglais avec une traduction en français dans les sous-titres.</li>
+<li>Nos podcasts n’avaient pas de transcription : nous les avons ajoutés.
+​
+<h2 id="les-adaptations-des-activités-en-classes-virtuelles">Les adaptations des activités en classes virtuelles</h2>
+<p>​
+Lors des classes virtuelles, certaines activités n’étaient pas accessibles, notre cheffe de projet pédagogique a regardé les classes virtuelles, identifié ce qui pouvait poser soucis et réalisé les aménagements suivants :</p></li>
+<li>Il y avait un exercice de méditation à base d’écoute les yeux fermés que nous avons remplacé par un exercice visuel de cohérence cardiaque.</li>
+<li>Etre vigilant lors de la nomination de rapporteur lors des sous-groupes.</li>
+</ul></li>
+</ol>
+<h2 id="conclusion">Conclusion</h2>
+<p>​
+Il est toujours délicat de demander de la disponibilité aux participant⋅e⋅s, mais la réalisation conjointe des tests avec la personne concernée est vraiment une pratique que je conseille.
+Comme lors d’un entretien utilisateur ou utilisatrice, nous avons pu voir son cheminement et nous serons vigilants sur les points qu’elle a remontés et qui nous sont précieux. De son côté, cela a permis de prendre le temps et de se rassurer en amont.</p>]]>
+    </content>
+    <link href="/blog/comment-accompagner-en-formation-a-distance-une-personne-malentendante/" rel="alternate" type="text/html" />
+    <published>2023-06-05T02:00:00+02:00</published>
+    <updated>2023-06-19T14:22:11+02:00</updated>
+  </entry>
   <entry xml:lang="en">
     <id>/blog/adpatations_formation_personne_malvoyante/</id>
     <title>Comment accompagner en formation digitale une personne malvoyante ?</title>
@@ -79,7 +147,7 @@ Concernant les classes virtuelles, je n’ai eu aucun problème pour suivre, l�
     </content>
     <link href="/blog/adpatations_formation_personne_malvoyante/" rel="alternate" type="text/html" />
     <published>2023-05-22T02:00:00+02:00</published>
-    <updated>2023-06-19T14:17:14+02:00</updated>
+    <updated>2023-06-19T14:22:11+02:00</updated>
   </entry>
   <entry xml:lang="en">
     <id>/blog/le_role_de_referente_handicap/</id>
@@ -158,6 +226,6 @@ Plus précisément, les personnes peuvent :</p>
     </content>
     <link href="/blog/le_role_de_referente_handicap/" rel="alternate" type="text/html" />
     <published>2023-05-15T02:00:00+02:00</published>
-    <updated>2023-06-19T14:17:14+02:00</updated>
+    <updated>2023-06-19T14:22:11+02:00</updated>
   </entry>
 </feed>

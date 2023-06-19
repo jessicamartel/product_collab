@@ -6,11 +6,149 @@
   <subtitle><![CDATA[Découvrez mon contenu sur des méthodes collaboratives et transversales entre les équipes techs et produits]]></subtitle>
   <link href="/atom.xml" rel="self" type="application/atom+xml" />
   <link href="/" rel="alternate" type="text/html" />
-  <updated>2023-05-22T02:00:00+02:00</updated>
+  <updated>2023-06-05T02:00:00+02:00</updated>
   <author>
     <name>The Butler</name>
     <uri>/</uri>
   </author>
+  <entry xml:lang="en">
+    <id>/blog/comment-accompagner-en-formation-a-distance-une-personne-malentendante/</id>
+    <title>Comment accompagner en formation à distance une personne malentendante</title>
+    <content type="html">
+      <![CDATA[<p>​
+Dans la suite des articles sur le handicap chez Unow je voulais partager avec vous comment nous avons accompagné une personne malentendante sur une de nos formations.
+​
+Cette fois-ci nous n’avions pas été contacté par le ou la responsable de formation mais par la participante directement qui a écrit à l’experte de la formation “Confiance en soi”.
+Elle était notamment inquiète de ne pas pouvoir suivre les classes virtuelles. Comme le reste de la formation est en asynchrone elle s’était tout de même inscrite.
+​</p>
+<h2 id="la-prise-de-contact">La prise de contact</h2>
+<p>​
+Comme lors de <a href="https://make.unow.fr/posts/accompagnement-pedagogique-personne-avec-handical-visue">l'accompagnement de la personne malvoyante</a>, j’ai tout de suite pris contact avec elle pour lui indiquer ce que nous avions déjà mis en place, notamment le fait que toutes nos vidéos sont sous-titrées.
+Je lui ai aussi posé des questions sur les adaptations qu’elle fait au quotidien : est-ce qu’elle sait lire sur les lèvres, est-ce que le sous-titrage en direct lui convient, est-ce qu’elle a une préférence sur l’outil de visioconférence… ?
+Elle a ainsi pu nous transmettre ses besoins : le son et la <a href="https://fr.wikipedia.org/wiki/Lecture_labiale">lecture labiale</a>.
+​</p>
+<h2 id="les-tests-de-l-outil-de-visioconférence">Les tests de l’outil de visioconférence</h2>
+<p>​
+La participante m’a immédiatement communiqué être disponible pour faire des tests ensemble si cela était possible, nous avons donc profité de cette disponibilité pour essayer avec elle notre outil de visioconférence, Webex.
+​
+Voici comment nous avons organisé le test. Toutes ces étapes nous ont pris environ 2h.
+​</p>
+<ol>
+<li>Avec un développeur et une personne de l’équipe animation nous avons audité à 3 les possibilités d’adaptations que nous avons pu voir sur l’outil Webex que voici :
+<ul>
+<li>en bas à gauche il y a les sous titres “cc” et vous pouvez les déplacer et changer leur taille avec les trois petits points. Il y a aussi la possibilité en bas à droite les trois petits points pour que ça s'affiche sous forme de dialogue déroulant.</li>
+<li>Le contour de la vidéo de la personne qui parle devient bleu pour vous permettre d'identifier qui parle.</li>
+<li>Quand il y a un partage d'écran, il est possible de la glisser sur le côté pour voir l'expert en plus grand à côté de la présentation, vous pouvez aussi cliquer sur les trois points en haut à droite de la vignette et passer en &quot;affichage scène&quot;.</li>
+<li>Il est possible de lever la main avec la main à droite pour lui signifier que vous voulez parler.</li>
+<li>Il est possible de participer au chat pour poser toutes vos questions à l'écrit.</li>
+<li>Vous pouvez masquer un⋅e participant⋅e qui n'a pas de vidéo puisque vous ne pourrez pas lire sur ses lèvres mais vous verrez ses communications dans les sous-titres.</li>
+</ul></li>
+<li>Nous avions préparé un jeu de tests à réaliser avec la participante pour vérifier la lecture labiale et le sous titrage :
+<ul>
+<li>La présentatrice parle face caméra.</li>
+<li>La présentatrice parle face caméra et partage un document.</li>
+<li>Un⋅e participant⋅e coupe la parole à la présentatrice.</li>
+<li>Un⋅e participant⋅e parle.</li>
+<li>Un⋅e participant⋅e parle pendant qu’il y a le partage d’écran.</li>
+<li>Un⋅e participant⋅e parle alors qu’il y a plus de 5 participant⋅e⋅s (une fois que la mosaïque est plus petite).</li>
+</ul></li>
+<li>Faire les tests avec la participante et l’équipe directement en lui présentant les options identifiées lors de l’audit. Ces tests ont été très riches en échange, il était intéressant de voir ce qu’elle voulait et les réactions de la participante qui était également contente et rassurée de pouvoir tester en amont, poser toutes ses questions et effectuer les tests qu’elle voulait en prenant son temps
+​
+<h2 id="les-adaptations-sur-la-plateforme">Les adaptations sur la plateforme</h2>
+<p>​
+Comme je l’ai déjà indiqué nos vidéos sont déjà sous-titrées mais j’ai tout de même voulu suivre la formation afin de m’assurer qu’il ne manquait pas des éléments.
+Et voici ce que nous avions identifié, qui a ensuite été corrigé par la cheffe de projet pédagogique :</p>
+<ul>
+<li>Deux vidéos d’introduction d’activités manquaient de sous-titres : nous les avons créés.</li>
+<li>Des vidéos Youtube partagées comme ressources complémentaires manquaient de sous-titres : nous en avons proposées d’autres ou nous avons partagé le lien vers la vidéo en anglais avec une traduction en français dans les sous-titres.</li>
+<li>Nos podcasts n’avaient pas de transcription : nous les avons ajoutés.
+​
+<h2 id="les-adaptations-des-activités-en-classes-virtuelles">Les adaptations des activités en classes virtuelles</h2>
+<p>​
+Lors des classes virtuelles, certaines activités n’étaient pas accessibles, notre cheffe de projet pédagogique a regardé les classes virtuelles, identifié ce qui pouvait poser soucis et réalisé les aménagements suivants :</p></li>
+<li>Il y avait un exercice de méditation à base d’écoute les yeux fermés que nous avons remplacé par un exercice visuel de cohérence cardiaque.</li>
+<li>Etre vigilant lors de la nomination de rapporteur lors des sous-groupes.</li>
+</ul></li>
+</ol>
+<h2 id="conclusion">Conclusion</h2>
+<p>​
+Il est toujours délicat de demander de la disponibilité aux participant⋅e⋅s, mais la réalisation conjointe des tests avec la personne concernée est vraiment une pratique que je conseille.
+Comme lors d’un entretien utilisateur ou utilisatrice, nous avons pu voir son cheminement et nous serons vigilants sur les points qu’elle a remontés et qui nous sont précieux. De son côté, cela a permis de prendre le temps et de se rassurer en amont.</p>]]>
+    </content>
+    <link href="/blog/comment-accompagner-en-formation-a-distance-une-personne-malentendante/" rel="alternate" type="text/html" />
+    <published>2023-06-05T02:00:00+02:00</published>
+    <updated>2023-06-19T14:22:11+02:00</updated>
+  </entry>
+  <entry xml:lang="en">
+    <id>/blog/adpatations_formation_personne_malvoyante/</id>
+    <title>Comment accompagner en formation digitale une personne malvoyante ?</title>
+    <content type="html">
+      <![CDATA[<p>Comme j'en ai parlé dans <a href="https://www.product-collab.com/blog/le_role_de_referente_handicap/">l’article sur le rôle de référente handicap</a>, la mission la plus importante est sans doute d’accompagner individuellement les personnes avec un handicap pour leur proposer un aménagement individualisé.</p>
+<p>La première année de la mise en place de ce rôle, nous avons été contactés par des responsables de formation pour accompagner des personnes dyslexiques.</p>
+<p>En 2023, nous avons accompagné une personne malvoyante. Cet article a pour but de vous partager ce que nous avons fait, pour que cela vous aide à aider en retour.</p>
+<h2 id="première-étape-la-prise-de-contact">Première étape : la prise de contact</h2>
+<p>Nous avons été contactés directement par un responsable de formation qui voulait savoir si nos formations étaient bien accessibles à des personnes malvoyantes, nous n’avions pas eu plus de détails, nous lui avons donc immédiatement demandé une mise en relation.</p>
+<p>J’ai rapidement envoyé un mail à la personne concernée pour me présenter, lui dire dans quel contexte je la contactais. J’ai été très transparente sur le fait que c’est la première fois que nous étions confrontés à ce type d’accompagnement et lui avons fait part des actions que nous faisions déjà.</p>
+<p>Parmi ce qui était déjà mis en place :</p>
+<ul>
+<li>Toutes nos vidéos sont accompagnées de sous-titres et d’un transcript disponible sur la page et en document Word.</li>
+<li>Toutes nos informations sont données en audio via une vidéo mais aussi dans le texte.</li>
+<li>Aucune information n’est donnée que par la couleur.</li>
+<li>Nos images ont la possibilité d’avoir un texte alternatif.</li>
+</ul>
+<p>Je lui ai ensuite demandé comment elle naviguait au quotidien en lui demandant le plus de précisions possible sur les technologies qu’elle utilise et je lui ai proposé de discuter de tout cela par téléphone si cela était plus simple pour elle, ce qui était le cas.</p>
+<p>S’en est suivi un grand nombre d'échanges en amont de la formation. Lors de notre premier appel j’ai également recueilli son consentement pour parler d’elle et de son handicap en interne, mais aussi avec notre expert formateur et même pour en discuter ensuite comme par exemple dans cet article :)</p>
+<h2 id="seconde-étape-les-tests">Seconde étape : les tests</h2>
+<p>Grâce à la première étape, nous savions que la personne utilisait le logiciel <a href="https://fr.wikipedia.org/wiki/JAWS_(lecteur_d%27%C3%A9cran)">JAWS</a> , qu’elle était à l’aise avec la suite Microsoft Office, et que le logiciel de visioconférence qu’elle avait l’habitude d’utiliser était Microsoft Teams.</p>
+<p>Nous avions plusieurs choses à tester en interne et nous nous sommes réparti les tâches :</p>
+<ul>
+<li>Je me suis chargée de repasser sur toute la formation pour valider les contenus (textes, images, vidéo, activités), la navigation au clavier et la plateforme de formation.</li>
+<li>Les développeurs ont également testé la navigation au clavier mais aussi avec le logiciel JAWS.</li>
+<li>L’équipe pédagogique a, quant à elle, regardé tous les derniers replays des classes virtuelles de cette formation pour identifier ce qui pourrait poser problème.</li>
+</ul>
+<p>Grâce à cela, nous avons identifié plusieurs problèmes que nous avons suivis et traités. Je vais tâcher d’être exhaustive ici, car ce sont des points de vigilance parfois difficiles à voir, heureusement que nous étions plusieurs.</p>
+<h2 id="troisième-étape-faire-les-adaptations-nécessaires">Troisième étape : faire les adaptations nécessaires</h2>
+<p>Avant toute chose il faut savoir que la personne était inscrite sur la formation &quot;<a href="https://www.unow.fr/formations/parler-en-public/">parler en public</a>&quot;.</p>
+<h3 id="les-adaptations-de-contenu">Les adaptations de contenu</h3>
+<ul>
+<li>Plusieurs de nos activités utilisent des services externes (drag and drop, nuage de mots). Nous avons pris le parti d’utiliser cette révision de la formation pour la rendre accessible tout le temps et donc nous avons développé en interne une nouvelle fonctionnalité celle du “spoiler” qui consiste à masquer un mot. Cela est tout à fait lisible par les lecteurs d’écrans et fonctionne aussi au visuel. Il a fallu ensuite que l’équipe pédagogique reformule chaque phrase pour que tout soit compréhensible, notamment dans les instructions.</li>
+<li>Il y avait une activité de description d’image et une autre de description d’une vidéo sans le son, qui évidemment ne convenait pas. Nous avons donc fait cohabiter cette activité avec une activité de description de sons avec de la musique. Nous avons choisi de faire cohabiter les deux, toujours dans la même logique de rendre la formation la plus inclusive ensuite.</li>
+<li>Une grande partie de la formation porte sur le mind mapping ou <a href="https://fr.wikipedia.org/wiki/Carte_heuristique">carte heuristique</a> et demandait l’utilisation d’un logiciel. Nous avons discuté avec la participante et nous avons proposé une alternative Excel ou Word à ce logiciel.</li>
+<li>Il manquait deux transcriptions sur des vidéos de transitions très courtes que nous avons ajoutées.</li>
+</ul>
+<h3 id="les-adaptations-des-classes-virtuelles">Les adaptations des classes virtuelles</h3>
+<ul>
+<li>Nous avons l’habitude d’utiliser Webex pour les visioconférences, mais nous avons demandé à la participante quel outil elle utilise au quotidien pour ne pas lui ajouter un changement supplémentaire, nous avons donc utilisé son outil pour cette session spécifiquement.</li>
+<li>Nous avons demandé à l’expert de ne pas utiliser la pratique du bâton de parole, mais de donner la parole.</li>
+<li>Il y avait une activité de lecture de texte avec différentes intonations qui a été transformée en activité de récitation de courtes phrases avec différentes intonations.</li>
+<li>Une autre activité avec la diffusion d’une roue des émotions a été transformée complètement à l’oral.</li>
+<li>Le mind mapping ou carte heuristique a été fait à l’oral sous forme de sommaire structuré.</li>
+</ul>
+<h3 id="les-adaptations-de-la-plateforme">Les adaptations de la plateforme</h3>
+<ul>
+<li>Nous avions une zone de commentaire sur chaque page de formation et si on entrait dedans via la navigation au clavier il n’était plus possible d’en sortir.  Pour ce faire nous avons supprimé la gestion de la touche tabulation dans la zone de texte, ce qui permet de sortir de cette même zone en appuyant sur “tabulation”.</li>
+<li>Lors de la navigation au clavier pour accéder à une page il fallait dérouler tout le programme ce qui nécessitait un grand nombre de d’appuis sur les touches avant de pouvoir accéder au contenu. Nous avons fait en sorte de réellement masquer les items de menu masqués, ainsi que de mettre en place un “skip link”, un <a href="https://www.alsacreations.com/article/lire/572-Les-liens-d-evitement.html">lien d’évitement</a> permettant de rapidement passer le menu au clavier.
+​
+<h2 id="dernière-étape-la-communication">Dernière étape la communication</h2>
+<p>Je mets la dernière étape, mais finalement elle reboucle avec la première :) Tout au long des adaptations, nous nous appelions avec la participante, j’étais très transparente avec elle et ça a permis un échange très sincère sur les inquiétudes et nous avons pu tester ensemble.</p></li>
+</ul>
+<p>Comme vous avez pu le lire dans la partie adaptations, cela a nécessité une forte transversalité entre les équipes produit, développement et pédagogie.</p>
+<p>La communication c’est aussi celle avec l’expert qui était indispensable dans notre contexte de formation avec un ou une experte formatrice durant plusieurs semaines. L'expert était très enthousiaste et a adapté sans problème, en étant même force de proposition sur le sujet.</p>
+<p>Nous avons aussi beaucoup communiqué en interne pour partager de bonnes pratiques que nous avons rédigées et que je vous mets en fin d’article, mais aussi pour que l’équipe commerciale sache que nous pouvons faire ce type d'adaptation et qu’on puisse peut-être à l’avenir accompagner d’autres personnes.</p>
+<h2 id="conclusion">Conclusion</h2>
+<p>​
+Je retiens de cet accompagnement qu’on peut toujours faire mieux et qu’on fait mieux ensemble. Que tout le monde était volontaire et qu’on est allé plus loin en transformant nos habitudes pour créer des formations plus inclusives, même s’il faudra à chaque fois valider avec les personnes concernées. Enfin, que les bonnes pratiques c’est bien, mais l’échange et la personnalisation c’est mieux et plus humain.</p>
+<p>Pour terminer voici le témoignage de la participante : </p>
+<blockquote>
+<p>J’ai été très bien accompagnée et j’ai trouvé extraordinaire votre disponibilité en toute circonstance.
+Pour la plateforme, les supports étaient bien adaptés et j’ai trouvé intéressant le quiz à chaque fin de module et le quiz final qui étaient très faciles d’accès.
+Concernant les classes virtuelles, je n’ai eu aucun problème pour suivre, l’expert a tout expliqué de façon très claire, une fois de plus une grande adaptabilité de votre côté.”</p>
+</blockquote>]]>
+    </content>
+    <link href="/blog/adpatations_formation_personne_malvoyante/" rel="alternate" type="text/html" />
+    <published>2023-05-22T02:00:00+02:00</published>
+    <updated>2023-06-19T14:22:11+02:00</updated>
+  </entry>
   <entry xml:lang="en">
     <id>/blog/formation_focus_group/</id>
     <title>Formation interne sur le focus group</title>
@@ -95,77 +233,7 @@ Cela peut servir ensuite pour créer une enquête par questionnaire, confirmer u
     </content>
     <link href="/blog/formation_focus_group/" rel="alternate" type="text/html" />
     <published>2023-05-22T02:00:00+02:00</published>
-    <updated>2023-06-19T14:17:14+02:00</updated>
-  </entry>
-  <entry xml:lang="en">
-    <id>/blog/adpatations_formation_personne_malvoyante/</id>
-    <title>Comment accompagner en formation digitale une personne malvoyante ?</title>
-    <content type="html">
-      <![CDATA[<p>Comme j'en ai parlé dans <a href="https://www.product-collab.com/blog/le_role_de_referente_handicap/">l’article sur le rôle de référente handicap</a>, la mission la plus importante est sans doute d’accompagner individuellement les personnes avec un handicap pour leur proposer un aménagement individualisé.</p>
-<p>La première année de la mise en place de ce rôle, nous avons été contactés par des responsables de formation pour accompagner des personnes dyslexiques.</p>
-<p>En 2023, nous avons accompagné une personne malvoyante. Cet article a pour but de vous partager ce que nous avons fait, pour que cela vous aide à aider en retour.</p>
-<h2 id="première-étape-la-prise-de-contact">Première étape : la prise de contact</h2>
-<p>Nous avons été contactés directement par un responsable de formation qui voulait savoir si nos formations étaient bien accessibles à des personnes malvoyantes, nous n’avions pas eu plus de détails, nous lui avons donc immédiatement demandé une mise en relation.</p>
-<p>J’ai rapidement envoyé un mail à la personne concernée pour me présenter, lui dire dans quel contexte je la contactais. J’ai été très transparente sur le fait que c’est la première fois que nous étions confrontés à ce type d’accompagnement et lui avons fait part des actions que nous faisions déjà.</p>
-<p>Parmi ce qui était déjà mis en place :</p>
-<ul>
-<li>Toutes nos vidéos sont accompagnées de sous-titres et d’un transcript disponible sur la page et en document Word.</li>
-<li>Toutes nos informations sont données en audio via une vidéo mais aussi dans le texte.</li>
-<li>Aucune information n’est donnée que par la couleur.</li>
-<li>Nos images ont la possibilité d’avoir un texte alternatif.</li>
-</ul>
-<p>Je lui ai ensuite demandé comment elle naviguait au quotidien en lui demandant le plus de précisions possible sur les technologies qu’elle utilise et je lui ai proposé de discuter de tout cela par téléphone si cela était plus simple pour elle, ce qui était le cas.</p>
-<p>S’en est suivi un grand nombre d'échanges en amont de la formation. Lors de notre premier appel j’ai également recueilli son consentement pour parler d’elle et de son handicap en interne, mais aussi avec notre expert formateur et même pour en discuter ensuite comme par exemple dans cet article :)</p>
-<h2 id="seconde-étape-les-tests">Seconde étape : les tests</h2>
-<p>Grâce à la première étape, nous savions que la personne utilisait le logiciel <a href="https://fr.wikipedia.org/wiki/JAWS_(lecteur_d%27%C3%A9cran)">JAWS</a> , qu’elle était à l’aise avec la suite Microsoft Office, et que le logiciel de visioconférence qu’elle avait l’habitude d’utiliser était Microsoft Teams.</p>
-<p>Nous avions plusieurs choses à tester en interne et nous nous sommes réparti les tâches :</p>
-<ul>
-<li>Je me suis chargée de repasser sur toute la formation pour valider les contenus (textes, images, vidéo, activités), la navigation au clavier et la plateforme de formation.</li>
-<li>Les développeurs ont également testé la navigation au clavier mais aussi avec le logiciel JAWS.</li>
-<li>L’équipe pédagogique a, quant à elle, regardé tous les derniers replays des classes virtuelles de cette formation pour identifier ce qui pourrait poser problème.</li>
-</ul>
-<p>Grâce à cela, nous avons identifié plusieurs problèmes que nous avons suivis et traités. Je vais tâcher d’être exhaustive ici, car ce sont des points de vigilance parfois difficiles à voir, heureusement que nous étions plusieurs.</p>
-<h2 id="troisième-étape-faire-les-adaptations-nécessaires">Troisième étape : faire les adaptations nécessaires</h2>
-<p>Avant toute chose il faut savoir que la personne était inscrite sur la formation &quot;<a href="https://www.unow.fr/formations/parler-en-public/">parler en public</a>&quot;.</p>
-<h3 id="les-adaptations-de-contenu">Les adaptations de contenu</h3>
-<ul>
-<li>Plusieurs de nos activités utilisent des services externes (drag and drop, nuage de mots). Nous avons pris le parti d’utiliser cette révision de la formation pour la rendre accessible tout le temps et donc nous avons développé en interne une nouvelle fonctionnalité celle du “spoiler” qui consiste à masquer un mot. Cela est tout à fait lisible par les lecteurs d’écrans et fonctionne aussi au visuel. Il a fallu ensuite que l’équipe pédagogique reformule chaque phrase pour que tout soit compréhensible, notamment dans les instructions.</li>
-<li>Il y avait une activité de description d’image et une autre de description d’une vidéo sans le son, qui évidemment ne convenait pas. Nous avons donc fait cohabiter cette activité avec une activité de description de sons avec de la musique. Nous avons choisi de faire cohabiter les deux, toujours dans la même logique de rendre la formation la plus inclusive ensuite.</li>
-<li>Une grande partie de la formation porte sur le mind mapping ou <a href="https://fr.wikipedia.org/wiki/Carte_heuristique">carte heuristique</a> et demandait l’utilisation d’un logiciel. Nous avons discuté avec la participante et nous avons proposé une alternative Excel ou Word à ce logiciel.</li>
-<li>Il manquait deux transcriptions sur des vidéos de transitions très courtes que nous avons ajoutées.</li>
-</ul>
-<h3 id="les-adaptations-des-classes-virtuelles">Les adaptations des classes virtuelles</h3>
-<ul>
-<li>Nous avons l’habitude d’utiliser Webex pour les visioconférences, mais nous avons demandé à la participante quel outil elle utilise au quotidien pour ne pas lui ajouter un changement supplémentaire, nous avons donc utilisé son outil pour cette session spécifiquement.</li>
-<li>Nous avons demandé à l’expert de ne pas utiliser la pratique du bâton de parole, mais de donner la parole.</li>
-<li>Il y avait une activité de lecture de texte avec différentes intonations qui a été transformée en activité de récitation de courtes phrases avec différentes intonations.</li>
-<li>Une autre activité avec la diffusion d’une roue des émotions a été transformée complètement à l’oral.</li>
-<li>Le mind mapping ou carte heuristique a été fait à l’oral sous forme de sommaire structuré.</li>
-</ul>
-<h3 id="les-adaptations-de-la-plateforme">Les adaptations de la plateforme</h3>
-<ul>
-<li>Nous avions une zone de commentaire sur chaque page de formation et si on entrait dedans via la navigation au clavier il n’était plus possible d’en sortir.  Pour ce faire nous avons supprimé la gestion de la touche tabulation dans la zone de texte, ce qui permet de sortir de cette même zone en appuyant sur “tabulation”.</li>
-<li>Lors de la navigation au clavier pour accéder à une page il fallait dérouler tout le programme ce qui nécessitait un grand nombre de d’appuis sur les touches avant de pouvoir accéder au contenu. Nous avons fait en sorte de réellement masquer les items de menu masqués, ainsi que de mettre en place un “skip link”, un <a href="https://www.alsacreations.com/article/lire/572-Les-liens-d-evitement.html">lien d’évitement</a> permettant de rapidement passer le menu au clavier.
-​
-<h2 id="dernière-étape-la-communication">Dernière étape la communication</h2>
-<p>Je mets la dernière étape, mais finalement elle reboucle avec la première :) Tout au long des adaptations, nous nous appelions avec la participante, j’étais très transparente avec elle et ça a permis un échange très sincère sur les inquiétudes et nous avons pu tester ensemble.</p></li>
-</ul>
-<p>Comme vous avez pu le lire dans la partie adaptations, cela a nécessité une forte transversalité entre les équipes produit, développement et pédagogie.</p>
-<p>La communication c’est aussi celle avec l’expert qui était indispensable dans notre contexte de formation avec un ou une experte formatrice durant plusieurs semaines. L'expert était très enthousiaste et a adapté sans problème, en étant même force de proposition sur le sujet.</p>
-<p>Nous avons aussi beaucoup communiqué en interne pour partager de bonnes pratiques que nous avons rédigées et que je vous mets en fin d’article, mais aussi pour que l’équipe commerciale sache que nous pouvons faire ce type d'adaptation et qu’on puisse peut-être à l’avenir accompagner d’autres personnes.</p>
-<h2 id="conclusion">Conclusion</h2>
-<p>​
-Je retiens de cet accompagnement qu’on peut toujours faire mieux et qu’on fait mieux ensemble. Que tout le monde était volontaire et qu’on est allé plus loin en transformant nos habitudes pour créer des formations plus inclusives, même s’il faudra à chaque fois valider avec les personnes concernées. Enfin, que les bonnes pratiques c’est bien, mais l’échange et la personnalisation c’est mieux et plus humain.</p>
-<p>Pour terminer voici le témoignage de la participante : </p>
-<blockquote>
-<p>J’ai été très bien accompagnée et j’ai trouvé extraordinaire votre disponibilité en toute circonstance.
-Pour la plateforme, les supports étaient bien adaptés et j’ai trouvé intéressant le quiz à chaque fin de module et le quiz final qui étaient très faciles d’accès.
-Concernant les classes virtuelles, je n’ai eu aucun problème pour suivre, l’expert a tout expliqué de façon très claire, une fois de plus une grande adaptabilité de votre côté.”</p>
-</blockquote>]]>
-    </content>
-    <link href="/blog/adpatations_formation_personne_malvoyante/" rel="alternate" type="text/html" />
-    <published>2023-05-22T02:00:00+02:00</published>
-    <updated>2023-06-19T14:17:14+02:00</updated>
+    <updated>2023-06-19T14:22:11+02:00</updated>
   </entry>
   <entry xml:lang="en">
     <id>/blog/le_role_de_referente_handicap/</id>
@@ -244,7 +312,7 @@ Plus précisément, les personnes peuvent :</p>
     </content>
     <link href="/blog/le_role_de_referente_handicap/" rel="alternate" type="text/html" />
     <published>2023-05-15T02:00:00+02:00</published>
-    <updated>2023-06-19T14:17:14+02:00</updated>
+    <updated>2023-06-19T14:22:11+02:00</updated>
   </entry>
   <entry xml:lang="en">
     <id>/blog/transiter_sur_figma/</id>
@@ -268,7 +336,7 @@ Dans cet article écrit à 4 mains avec Pierre Vincent notre Designer senior nou
     </content>
     <link href="/blog/transiter_sur_figma/" rel="alternate" type="text/html" />
     <published>2022-12-05T01:00:00+01:00</published>
-    <updated>2023-06-19T14:17:14+02:00</updated>
+    <updated>2023-06-19T14:22:11+02:00</updated>
   </entry>
   <entry xml:lang="en">
     <id>/blog/comment_mettre_en_place_ux_writing/</id>
@@ -296,7 +364,7 @@ Sans doute pas mais on ne peut pas se renier quand on aime donner du sens aux mo
     </content>
     <link href="/blog/comment_mettre_en_place_ux_writing/" rel="alternate" type="text/html" />
     <published>2022-08-05T02:00:00+02:00</published>
-    <updated>2023-06-19T14:17:14+02:00</updated>
+    <updated>2023-06-19T14:22:11+02:00</updated>
   </entry>
   <entry xml:lang="en">
     <id>/blog/methodologie_ux/</id>
@@ -396,7 +464,7 @@ Les spécs fonctionnelles : PM + une personne de l’équipe métier concernée 
     </content>
     <link href="/blog/methodologie_ux/" rel="alternate" type="text/html" />
     <published>2022-07-06T02:00:00+02:00</published>
-    <updated>2023-06-19T14:17:14+02:00</updated>
+    <updated>2023-06-19T14:22:11+02:00</updated>
   </entry>
   <entry xml:lang="en">
     <id>/about/</id>
@@ -413,7 +481,7 @@ Depuis quelques mois j'interviens en externe pour partager des méthodes collabo
     </content>
     <link href="/about/" rel="alternate" type="text/html" />
     <published>2022-05-24T02:00:00+02:00</published>
-    <updated>2023-06-19T14:17:14+02:00</updated>
+    <updated>2023-06-19T14:22:11+02:00</updated>
   </entry>
   <entry xml:lang="en">
     <id>/blog/ab_testing/</id>
@@ -439,7 +507,7 @@ Depuis quelques mois j'interviens en externe pour partager des méthodes collabo
     </content>
     <link href="/blog/ab_testing/" rel="alternate" type="text/html" />
     <published>2020-04-06T02:00:00+02:00</published>
-    <updated>2023-06-19T14:17:14+02:00</updated>
+    <updated>2023-06-19T14:22:11+02:00</updated>
   </entry>
   <entry xml:lang="en">
     <id>/blog/refonte_de_site/</id>
@@ -467,7 +535,7 @@ Depuis quelques mois j'interviens en externe pour partager des méthodes collabo
     </content>
     <link href="/blog/refonte_de_site/" rel="alternate" type="text/html" />
     <published>2019-12-05T01:00:00+01:00</published>
-    <updated>2023-06-19T14:17:14+02:00</updated>
+    <updated>2023-06-19T14:22:11+02:00</updated>
   </entry>
   <entry xml:lang="en">
     <id>/blog/organisation_agile_et_mes_outils_de_product_owner/</id>
@@ -496,7 +564,7 @@ Comme d'habitude, la collaboration, l'esprit d'équipe et l'avancée solidaire s
     </content>
     <link href="/blog/organisation_agile_et_mes_outils_de_product_owner/" rel="alternate" type="text/html" />
     <published>2019-11-18T01:00:00+01:00</published>
-    <updated>2023-06-19T14:17:14+02:00</updated>
+    <updated>2023-06-19T14:22:11+02:00</updated>
   </entry>
   <entry xml:lang="en">
     <id>/blog/retour_sur_la_blendwebmix_2019/</id>
@@ -521,6 +589,6 @@ Comme d'habitude, la collaboration, l'esprit d'équipe et l'avancée solidaire s
     </content>
     <link href="/blog/retour_sur_la_blendwebmix_2019/" rel="alternate" type="text/html" />
     <published>2019-11-18T01:00:00+01:00</published>
-    <updated>2023-06-19T14:17:14+02:00</updated>
+    <updated>2023-06-19T14:22:11+02:00</updated>
   </entry>
 </feed>
